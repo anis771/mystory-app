@@ -1,0 +1,6 @@
+Metric,F-statistic,p-value,Significant,Effect Size (η²),Best Extractor,Best Score,Sample Sizes
+Clip Score,9.5392,0.0002,Yes,0.2095,KEYBERT,0.2902,"{'yake': 25, 'keybert': 25, 'simple': 25}"
+Bert F1,3.5857,0.0328,Yes,0.0906,YAKE,0.4246,"{'yake': 25, 'keybert': 25, 'simple': 25}"
+Rouge1 F1,0.0800,0.9232,No,0.0022,SIMPLE,0.1624,"{'yake': 25, 'keybert': 25, 'simple': 25}"
+Rouge2 F1,19.3808,0.0000,Yes,0.3500,YAKE,0.0332,"{'yake': 25, 'keybert': 25, 'simple': 25}"
+Brisque Score,0.6344,0.5332,No,0.0173,YAKE,8.0924,"{'yake': 25, 'keybert': 25, 'simple': 25}"

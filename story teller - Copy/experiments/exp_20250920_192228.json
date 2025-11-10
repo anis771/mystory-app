@@ -1,0 +1,598 @@
+{
+  "id": "exp_20250920_192228",
+  "title": "The Adventures of Charlie And The",
+  "context": {
+    "characters": {
+      "Charlie Bucket": "a curious boy",
+      "Willy Wonka": "tall, eccentric figure with wild hair and wire-rimmed glasses"
+    },
+    "settings": [
+      "Wonka's Wonderful Chocolate Factory",
+      "enchanted forest"
+    ],
+    "art_style": "watercolor fantasy",
+    "mood": "whimsical",
+    "theme": "fantasy",
+    "setting_type": "magical",
+    "color_palette": "vibrant rainbow",
+    "key_elements": [
+      "copper pipes",
+      "twinkling windows",
+      "strange contraptions",
+      "sweet chocolate"
+    ]
+  },
+  "consistency": 0.20815295815295815,
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "As the golden sun dipped behind the misty mountains, a curious boy named Charlie Bucket wandered into the heart of the enchanted forest. The scent of sweet chocolate wafted through the air, drawing him to a clearing where a magnificent factory stood tall, its walls adorned with gleaming copper pipes and twinkling windows that shone like diamonds in the fading light. A sign above the entrance read \"Wonka's Wonderful Chocolate Factory\" in bold, swirling letters that seemed to dance across the sky.",
+      "results": {
+        "yake": {
+          "prompt": "Charlie Bucket, Willy Wonka, Charlie, Bucket, mountains, forest, chocolate, factory, golden, sun, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_8f1ef0adab364c4b8fa4206ecf44d58e.png",
+          "clip_score": 0.28896814584732056,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.549197793006897
+            ],
+            "recall": [
+              0.339791476726532
+            ],
+            "f1": [
+              0.41983121633529663
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0963855421686747,
+              "f1": 0.1758241758241758
+            },
+            "rouge2": {
+              "precision": 0.42857142857142855,
+              "recall": 0.036585365853658534,
+              "f1": 0.06741573033707865
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.060240963855421686,
+              "f1": 0.10989010989010989
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 7.96429443359375
+        },
+        "keybert": {
+          "prompt": "Charlie Bucket, Willy Wonka, chocolate, wonka, gleaming, enchanted, golden, wandered, charlie, twinkling, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_27bd7ab9a85d4dcfab7667b11e2c7b67.png",
+          "clip_score": 0.28357216715812683,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4945886731147766
+            ],
+            "recall": [
+              0.3501613140106201
+            ],
+            "f1": [
+              0.4100286066532135
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0963855421686747,
+              "f1": 0.1758241758241758
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.03614457831325301,
+              "f1": 0.06593406593406592
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 5.61688232421875
+        },
+        "simple": {
+          "prompt": "Charlie Bucket, Willy Wonka, magnificent, mountains, enchanted, chocolate, twinkling, wonderful, wandered, clearing, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_a3200f7dbfd141d885b19263cac4d4e7.png",
+          "clip_score": 0.2898944914340973,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5454133152961731
+            ],
+            "recall": [
+              0.3579671382904053
+            ],
+            "f1": [
+              0.4322432577610016
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0963855421686747,
+              "f1": 0.1758241758241758
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.060240963855421686,
+              "f1": 0.10989010989010989
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 6.22161865234375
+        }
+      }
+    },
+    {
+      "id": 2,
+      "text": "Charlie's eyes widened as he pushed open the creaky gate and stepped into a world of pure imagination. Inside, the factory hummed with the gentle purr of machinery, like a contented beast awakened from a long slumber. Rows of wooden shelves stretched towards the ceiling, laden with jars of sparkling sweets, each one emitting a tantalizing aroma that made Charlie's mouth water. The air was thick with the promise of magic, and he felt his heart skipping beats as he explored the wonders within.",
+      "results": {
+        "yake": {
+          "prompt": "Charlie Bucket, Willy Wonka, imagination, Charlie, eyes, widened, pushed, open, creaky, gate, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_1feb3775754648cfa855a6917804f292.png",
+          "clip_score": 0.28655529022216797,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6191950440406799
+            ],
+            "recall": [
+              0.3626673221588135
+            ],
+            "f1": [
+              0.45742014050483704
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09302325581395349,
+              "f1": 0.1702127659574468
+            },
+            "rouge2": {
+              "precision": 0.42857142857142855,
+              "recall": 0.03529411764705882,
+              "f1": 0.06521739130434782
+            },
+            "rougeL": {
+              "precision": 0.875,
+              "recall": 0.08139534883720931,
+              "f1": 0.14893617021276595
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 22.71221923828125
+        },
+        "keybert": {
+          "prompt": "Charlie Bucket, Willy Wonka, charlie, hummed, sparkling, water, aroma, imagination, sweets, machinery, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_eef46df0e26a49a89c44d5cc98008516.png",
+          "clip_score": 0.2766261100769043,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4867990016937256
+            ],
+            "recall": [
+              0.3374091386795044
+            ],
+            "f1": [
+              0.398565411567688
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09302325581395349,
+              "f1": 0.1702127659574468
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.046511627906976744,
+              "f1": 0.0851063829787234
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 7.21502685546875
+        },
+        "simple": {
+          "prompt": "Charlie Bucket, Willy Wonka, imagination, tantalizing, machinery, contented, stretched, sparkling, awakened, emitting, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_1a4f44681d124e86b20aa26b4736cb6e.png",
+          "clip_score": 0.28337278962135315,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4818245470523834
+            ],
+            "recall": [
+              0.317351758480072
+            ],
+            "f1": [
+              0.38266363739967346
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09302325581395349,
+              "f1": 0.1702127659574468
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.06976744186046512,
+              "f1": 0.1276595744680851
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 6.37030029296875
+        }
+      }
+    },
+    {
+      "id": 3,
+      "text": "As he wandered deeper into the factory, Charlie stumbled upon a room filled with strange contraptions that whirred and whizzed like mechanical insects. A tall, eccentric figure with wild hair and wire-rimmed glasses stood at the center of the room, surrounded by a halo of light. It was Willy Wonka himself, his eyes twinkling like stars as he watched Charlie's every move. \"Ah, welcome, young friend!\" Wonka exclaimed, his voice like a warm breeze on a summer day. \"I've been expecting you. You see, I have a special job in mind for someone with your... unique qualities.\"",
+      "results": {
+        "yake": {
+          "prompt": "Charlie Bucket, Willy Wonka, Charlie, factory, insects, room, wandered, deeper, stumbled, filled, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_d82c23d3b4f54ef2bf0583914e273cad.png",
+          "clip_score": 0.2642558813095093,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5072943568229675
+            ],
+            "recall": [
+              0.2830571234226227
+            ],
+            "f1": [
+              0.36336562037467957
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08,
+              "f1": 0.14814814814814814
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.010101010101010102,
+              "f1": 0.018867924528301886
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.04,
+              "f1": 0.07407407407407407
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 10.19964599609375
+        },
+        "keybert": {
+          "prompt": "Charlie Bucket, Willy Wonka, wonka, charlie, willy, stars, twinkling, whizzed, expecting, room, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_cb1dbd2ea661490ea0ef4cda8231e1a2.png",
+          "clip_score": 0.2535049319267273,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.46990084648132324
+            ],
+            "recall": [
+              0.3059377074241638
+            ],
+            "f1": [
+              0.3705935478210449
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08,
+              "f1": 0.14814814814814814
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.04,
+              "f1": 0.07407407407407407
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 18.19085693359375
+        },
+        "simple": {
+          "prompt": "Charlie Bucket, Willy Wonka, contraptions, wire-rimmed, mechanical, surrounded, eccentric, twinkling, exclaimed, expecting, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_5d83f78c43fb47f894f288c00ffcfe18.png",
+          "clip_score": 0.27796173095703125,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.552899956703186
+            ],
+            "recall": [
+              0.33270424604415894
+            ],
+            "f1": [
+              0.4154275059700012
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09,
+              "f1": 0.16513761467889906
+            },
+            "rouge2": {
+              "precision": 0.125,
+              "recall": 0.010101010101010102,
+              "f1": 0.018691588785046728
+            },
+            "rougeL": {
+              "precision": 0.7777777777777778,
+              "recall": 0.07,
+              "f1": 0.12844036697247707
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 11.17071533203125
+        }
+      }
+    },
+    {
+      "id": 4,
+      "text": "Wonka led Charlie through the factory's winding corridors, introducing him to an assortment of wacky workers who seemed to be operating in perfect harmony with the machinery. There was Violet Beauregarde, a gum-chewing genius with hair that looked like it had been styled by a hurricane; Mike Teavee, a tech-whiz kid with eyes that shone like laser beams; Veruca Salt, a spoiled diva with a temper to match her fiery locks; and Augustus Gloop, a chubby-cheeked glutton who drooled at the mere mention of chocolate. Each one was busily working on their assigned task, their faces aglow with concentration.",
+      "results": {
+        "yake": {
+          "prompt": "Charlie Bucket, Willy Wonka, Charlie, Wonka, corridors, introducing, machinery, led, factory, winding, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_dac547bf54e847c09603350a579eae8d.png",
+          "clip_score": 0.2687222361564636,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5267409682273865
+            ],
+            "recall": [
+              0.31455546617507935
+            ],
+            "f1": [
+              0.39389029145240784
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07766990291262135,
+              "f1": 0.14414414414414414
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.00980392156862745,
+              "f1": 0.018348623853211007
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.038834951456310676,
+              "f1": 0.07207207207207207
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 8.58465576171875
+        },
+        "keybert": {
+          "prompt": "Charlie Bucket, Willy Wonka, wonka, charlie, violet, shone, augustus, chocolate, faces, drooled, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_af0ca94619e84ad48b1a47b6f6a5cd4b.png",
+          "clip_score": 0.2476452887058258,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.47272446751594543
+            ],
+            "recall": [
+              0.3326084613800049
+            ],
+            "f1": [
+              0.39047741889953613
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07766990291262135,
+              "f1": 0.14414414414414414
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.875,
+              "recall": 0.06796116504854369,
+              "f1": 0.12612612612612614
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 3.69281005859375
+        },
+        "simple": {
+          "prompt": "Charlie Bucket, Willy Wonka, chubby-cheeked, concentration, introducing, beauregarde, gum-chewing, assortment, corridors, operating, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_9dfcd990bdb74651a03c09b3a6df1adb.png",
+          "clip_score": 0.26431703567504883,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.559059202671051
+            ],
+            "recall": [
+              0.3777536153793335
+            ],
+            "f1": [
+              0.45086196064949036
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0970873786407767,
+              "f1": 0.17699115044247787
+            },
+            "rouge2": {
+              "precision": 0.2222222222222222,
+              "recall": 0.0196078431372549,
+              "f1": 0.036036036036036036
+            },
+            "rougeL": {
+              "precision": 0.4,
+              "recall": 0.038834951456310676,
+              "f1": 0.07079646017699115
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 10.52484130859375
+        }
+      }
+    },
+    {
+      "id": 5,
+      "text": "As the sun dipped below the horizon, Wonka led Charlie to a grand, domed room filled with luscious treats that seemed to defy gravity. The air was heavy with the scent of melting chocolate, and Charlie's eyes grew wide as he spotted gummies that looked like jellyfish, caramel apples that shone like gemstones, and a river of liquid gold that flowed like honey into the mouth of a waiting cauldron. Wonka smiled knowingly, his eyes glinting with mischief. \"And now, my dear Charlie, it's time for you to discover the secrets of the most extraordinary chocolate factory in all the land!\"",
+      "results": {
+        "yake": {
+          "prompt": "Charlie Bucket, Willy Wonka, Charlie, Wonka, horizon, grand, domed, gravity, sun, dipped, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_5a1dd265650e4372a8e112b8bf2206d9.png",
+          "clip_score": 0.27280235290527344,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5394143462181091
+            ],
+            "recall": [
+              0.3270407021045685
+            ],
+            "f1": [
+              0.4072004556655884
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07766990291262135,
+              "f1": 0.14414414414414414
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.0196078431372549,
+              "f1": 0.03669724770642201
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.038834951456310676,
+              "f1": 0.07207207207207207
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 8.09320068359375
+        },
+        "keybert": {
+          "prompt": "Charlie Bucket, Willy Wonka, chocolate, charlie, wonka, honey, caramel, gummies, apples, gemstones, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_7cb38830030e4df9a56dc41ae565632c.png",
+          "clip_score": 0.2583387494087219,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5592395663261414
+            ],
+            "recall": [
+              0.33296194672584534
+            ],
+            "f1": [
+              0.4174067974090576
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07766990291262135,
+              "f1": 0.14414414414414414
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.04854368932038835,
+              "f1": 0.0900900900900901
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 0.68585205078125
+        },
+        "simple": {
+          "prompt": "Charlie Bucket, Willy Wonka, extraordinary, chocolate, jellyfish, gemstones, knowingly, luscious, cauldron, glinting, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_e8cf4eec819e4432a8bb7c49a11ac581.png",
+          "clip_score": 0.2875724732875824,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6146379709243774
+            ],
+            "recall": [
+              0.3936362862586975
+            ],
+            "f1": [
+              0.47991663217544556
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07766990291262135,
+              "f1": 0.14414414414414414
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.00980392156862745,
+              "f1": 0.018348623853211007
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.04854368932038835,
+              "f1": 0.0900900900900901
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 8.26898193359375
+        }
+      }
+    }
+  ]
+}

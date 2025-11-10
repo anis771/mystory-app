@@ -1,0 +1,580 @@
+{
+  "id": "exp_20250901_151344",
+  "title": "The Tale of Snow White",
+  "context": {
+    "characters": {
+      "name": "Snow White",
+      "description": "A radiant princess with raven tresses, pale skin, and sapphire eyes"
+    },
+    "settings": [
+      "Enchanted castle walls",
+      "Castle gardens"
+    ],
+    "art_style": "watercolor fantasy",
+    "mood": "whimsical",
+    "theme": "fantasy",
+    "setting_type": "medieval",
+    "color_palette": "warm earth tones",
+    "key_elements": [
+      "Moonbeams"
+    ]
+  },
+  "consistency": 0.43900375939849623,
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "In the mystical realm of Azura, where moonbeams danced across dewy meadows and starlight twinkled like diamonds in the velvet sky, a radiant princess named Snow White dwelled within the enchanted castle walls. Her raven tresses cascaded down her back like a waterfall of night, framing a face as pale as alabaster and eyes that shone like sapphires on a summer's day.",
+      "results": {
+        "yake": {
+          "prompt": "name, description, Azura, Snow, White, sky, walls, mystical, realm, moonbeams, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_b129b8b0fa80499c93448160021447de.png",
+          "clip_score": 0.30457425117492676,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.608156144618988
+            ],
+            "recall": [
+              0.40535932779312134
+            ],
+            "f1": [
+              0.48646870255470276
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.12698412698412698,
+              "f1": 0.22535211267605632
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.03225806451612903,
+              "f1": 0.05797101449275363
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.06349206349206349,
+              "f1": 0.11267605633802816
+            }
+          },
+          "brisque_score": 6.96112060546875
+        },
+        "keybert": {
+          "prompt": "name, description, azura, moonbeams, radiant, princess, enchanted, raven, mystical, castle, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_90e6d8a36bf446cd999616a781cac11f.png",
+          "clip_score": 0.3062097728252411,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.5689751505851746
+            ],
+            "recall": [
+              0.37533795833587646
+            ],
+            "f1": [
+              0.45230332016944885
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.12698412698412698,
+              "f1": 0.22535211267605632
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.016129032258064516,
+              "f1": 0.028985507246376815
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.09523809523809523,
+              "f1": 0.16901408450704225
+            }
+          },
+          "brisque_score": 10.39959716796875
+        },
+        "simple": {
+          "prompt": "name, description, moonbeams, starlight, enchanted, waterfall, alabaster, sapphires, mystical, twinkled, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_a289a352ccd54f94992359a701211087.png",
+          "clip_score": 0.2504669427871704,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6575332283973694
+            ],
+            "recall": [
+              0.44887977838516235
+            ],
+            "f1": [
+              0.5335320234298706
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.12698412698412698,
+              "f1": 0.22535211267605632
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.09523809523809523,
+              "f1": 0.16901408450704225
+            }
+          },
+          "brisque_score": 14.62127685546875
+        }
+      }
+    },
+    {
+      "id": 2,
+      "text": "As she strolled through the castle gardens, Snow White's feet bare and her fingers trailing along the stone walls, the fragrance of blooming flowers wafted up to greet her, mingling with the sweet songs of birds in a symphony of delight. The morning sun cast its golden rays upon her porcelain skin, illuminating the delicate freckles that dotted her cheeks like constellations on a starry night. Her laughter echoed through the halls as she chased after a fluttering butterfly, its iridescent wings shimmering like a promise of magic yet to come.",
+      "results": {
+        "yake": {
+          "prompt": "name, description, Snow, White, gardens, walls, mingling, delight, strolled, castle, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_76c9fb59ec5843568c1bf5604eda092f.png",
+          "clip_score": 0.2968064248561859,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.5830780267715454
+            ],
+            "recall": [
+              0.38467711210250854
+            ],
+            "f1": [
+              0.46354034543037415
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08695652173913043,
+              "f1": 0.16
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.01098901098901099,
+              "f1": 0.020408163265306128
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.05434782608695652,
+              "f1": 0.09999999999999999
+            }
+          },
+          "brisque_score": 8.85711669921875
+        },
+        "keybert": {
+          "prompt": "name, description, flowers, sun, shimmering, blooming, morning, butterfly, fluttering, night, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_33e9ec4ed9df40cf9ca92a35df9f91f8.png",
+          "clip_score": 0.31445056200027466,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5303151607513428
+            ],
+            "recall": [
+              0.3375856578350067
+            ],
+            "f1": [
+              0.41255125403404236
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08695652173913043,
+              "f1": 0.16
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.03260869565217391,
+              "f1": 0.06
+            }
+          },
+          "brisque_score": 13.32733154296875
+        },
+        "simple": {
+          "prompt": "name, description, constellations, illuminating, fluttering, iridescent, shimmering, fragrance, porcelain, butterfly, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_f97c90f1ba18405182626f273b67d8c3.png",
+          "clip_score": 0.29720333218574524,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6009377241134644
+            ],
+            "recall": [
+              0.39330920577049255
+            ],
+            "f1": [
+              0.47544392943382263
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08695652173913043,
+              "f1": 0.16
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.043478260869565216,
+              "f1": 0.08
+            }
+          },
+          "brisque_score": 16.61004638671875
+        }
+      }
+    },
+    {
+      "id": 3,
+      "text": "One fateful day, the Queen's jealous gaze fell upon Snow White, and with a wicked cackle, she conjured a dark spell that would render her beauty lost forever. The once-vibrant princess was transformed into a fragile creature, her skin as white as fresh snow, her eyes dulling to a milky hue, and her tresses turning silver in the blink of an eye. As Snow White wept tears of sorrow, the Queen's cruel laughter boomed through the halls, echoing off the stone walls like the crashing of thunder on a stormy night.",
+      "results": {
+        "yake": {
+          "prompt": "name, description, Snow, White, Queen, day, cackle, forever, fateful, jealous, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_de1a1a3e7ebd4ff7aae36275be34595f.png",
+          "clip_score": 0.25695234537124634,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.5217944383621216
+            ],
+            "recall": [
+              0.3400005102157593
+            ],
+            "f1": [
+              0.41172295808792114
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0851063829787234,
+              "f1": 0.1568627450980392
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.010752688172043012,
+              "f1": 0.020000000000000004
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.0425531914893617,
+              "f1": 0.0784313725490196
+            }
+          },
+          "brisque_score": 14.84002685546875
+        },
+        "keybert": {
+          "prompt": "name, description, sorrow, wept, princess, tears, fateful, snow, laughter, dark, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_e9605a9188864de8afaef88609c09727.png",
+          "clip_score": 0.29269662499427795,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.4561873972415924
+            ],
+            "recall": [
+              0.3061028718948364
+            ],
+            "f1": [
+              0.3663703501224518
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0851063829787234,
+              "f1": 0.1568627450980392
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.031914893617021274,
+              "f1": 0.058823529411764705
+            }
+          },
+          "brisque_score": 15.39373779296875
+        },
+        "simple": {
+          "prompt": "name, description, once-vibrant, transformed, conjured, princess, creature, laughter, crashing, fateful, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_c6de4e9201e84d6d929a7ca0e4fd331e.png",
+          "clip_score": 0.25523674488067627,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.5995527505874634
+            ],
+            "recall": [
+              0.37844574451446533
+            ],
+            "f1": [
+              0.4640052020549774
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09574468085106383,
+              "f1": 0.17475728155339806
+            },
+            "rouge2": {
+              "precision": 0.125,
+              "recall": 0.010752688172043012,
+              "f1": 0.019801980198019806
+            },
+            "rougeL": {
+              "precision": 0.6666666666666666,
+              "recall": 0.06382978723404255,
+              "f1": 0.11650485436893203
+            }
+          },
+          "brisque_score": 8.88250732421875
+        }
+      }
+    },
+    {
+      "id": 4,
+      "text": "In a desperate bid to break the curse, the Seven Dwarfs Doc, Grumpy, Happy, Sleepy, Bashful, Sneezy, and Dopey  risked their own lives to venture into the treacherous forest, where ancient trees creaked with an otherworldly voice and shadows lurked like predators waiting to pounce. Led by their fearless leader, Doc, they navigated the twisting paths, their lanterns casting a warm glow upon the darkened landscape as they searched for the one who could reverse the Queen's curse: the enigmatic and reclusive sorcerer, Raven Blackwood.",
+      "results": {
+        "yake": {
+          "prompt": "name, description, Doc, Grumpy, Happy, Sleepy, Bashful, Sneezy, Dwarfs, Dopey, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_7594072fb16048eebe710dbe77971c1e.png",
+          "clip_score": 0.29046401381492615,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6193348169326782
+            ],
+            "recall": [
+              0.3577994108200073
+            ],
+            "f1": [
+              0.45356640219688416
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09302325581395349,
+              "f1": 0.1702127659574468
+            },
+            "rouge2": {
+              "precision": 0.7142857142857143,
+              "recall": 0.058823529411764705,
+              "f1": 0.10869565217391305
+            },
+            "rougeL": {
+              "precision": 0.875,
+              "recall": 0.08139534883720931,
+              "f1": 0.14893617021276595
+            }
+          },
+          "brisque_score": 7.19451904296875
+        },
+        "keybert": {
+          "prompt": "name, description, dwarfs, trees, curse, forest, treacherous, lanterns, sorcerer, shadows, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_c80c5c9f71aa4390932ed03cc146437b.png",
+          "clip_score": 0.2876918911933899,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5232856273651123
+            ],
+            "recall": [
+              0.33934667706489563
+            ],
+            "f1": [
+              0.41170555353164673
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09302325581395349,
+              "f1": 0.1702127659574468
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.046511627906976744,
+              "f1": 0.0851063829787234
+            }
+          },
+          "brisque_score": 11.38494873046875
+        },
+        "simple": {
+          "prompt": "name, description, otherworldly, treacherous, desperate, predators, navigated, landscape, enigmatic, reclusive, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_d5b8446741fd4085ae8092808e325a03.png",
+          "clip_score": 0.26394978165626526,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.57142573595047
+            ],
+            "recall": [
+              0.33978891372680664
+            ],
+            "f1": [
+              0.42616552114486694
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09302325581395349,
+              "f1": 0.1702127659574468
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.06976744186046512,
+              "f1": 0.1276595744680851
+            }
+          },
+          "brisque_score": 5.28045654296875
+        }
+      }
+    },
+    {
+      "id": 5,
+      "text": "As Snow White lay motionless within her glass coffin, a faint glimmer of hope flickered to life within her heart. The Dwarfs, undeterred by the perils that lay ahead, pressed on in their quest for salvation. And when they finally stumbled upon Raven's foreboding tower, its spires piercing the sky like shards of glass, a mysterious energy crackled through the air, as if the very fabric of fate was about to be rewritten. The stage was set for an epic battle between good and evil, with Snow White's future hanging precariously in the balance.",
+      "results": {
+        "yake": {
+          "prompt": "name, description, Snow, White, lay, coffin, heart, motionless, faint, glimmer, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_f9e4b2bde9fb423c9e34202ca900c52f.png",
+          "clip_score": 0.2544378638267517,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.6195236444473267
+            ],
+            "recall": [
+              0.353346586227417
+            ],
+            "f1": [
+              0.4500221312046051
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08333333333333333,
+              "f1": 0.15384615384615385
+            },
+            "rouge2": {
+              "precision": 0.42857142857142855,
+              "recall": 0.031578947368421054,
+              "f1": 0.05882352941176471
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.0625,
+              "f1": 0.11538461538461539
+            }
+          },
+          "brisque_score": 11.10906982421875
+        },
+        "keybert": {
+          "prompt": "name, description, snow, raven, dwarfs, tower, fate, sky, white, quest, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_f18fdab8341442c98ef09efd20f8c27b.png",
+          "clip_score": 0.3166138529777527,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.45416897535324097
+            ],
+            "recall": [
+              0.30380821228027344
+            ],
+            "f1": [
+              0.3640749752521515
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08333333333333333,
+              "f1": 0.15384615384615385
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.052083333333333336,
+              "f1": 0.09615384615384616
+            }
+          },
+          "brisque_score": 16.98944091796875
+        },
+        "simple": {
+          "prompt": "name, description, precariously, motionless, undeterred, foreboding, mysterious, flickered, salvation, rewritten, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_7a10d682220e4c77984128842b5f4720.png",
+          "clip_score": 0.2647397816181183,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5634024143218994
+            ],
+            "recall": [
+              0.36704009771347046
+            ],
+            "f1": [
+              0.4445009231567383
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08333333333333333,
+              "f1": 0.15384615384615385
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.052083333333333336,
+              "f1": 0.09615384615384616
+            }
+          },
+          "brisque_score": 9.34735107421875
+        }
+      }
+    }
+  ]
+}

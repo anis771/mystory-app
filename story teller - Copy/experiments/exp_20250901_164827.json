@@ -1,0 +1,583 @@
+{
+  "id": "exp_20250901_164827",
+  "title": "The Tale of Goodnight Moon",
+  "context": {
+    "characters": {
+      "Luna Nightshade": "a young girl who loves cookies and her pet cat Midnight",
+      "Celeste": "Luna's mother, a kind and loving person"
+    },
+    "settings": [
+      "the cozy little house on Willow Street",
+      "the neighborhood",
+      "next door (neighbor's house)"
+    ],
+    "art_style": "watercolor fantasy",
+    "mood": "cheerful",
+    "theme": "whimsical",
+    "setting_type": "contemporary",
+    "color_palette": "warm earth tones, soft blues",
+    "key_elements": [
+      "Midnight the cat",
+      "cookies",
+      "the moon"
+    ]
+  },
+  "consistency": 0.2916208791208791,
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "Here's the creative 5-paragraph story based on the idea \"Goodnight Moon\":\n\nIn the cozy little house on Willow Street, Luna Nightshade was getting ready for bed. She lived with her best friend and pet, a fluffy cat named Midnight, who loved to curl up beside her at night. The moon was shining brightly outside, casting a silver glow over the neighborhood. Luna slipped into her favorite pajamas, a soft yellow onesie with tiny stars embroidered on it, and gave Midnight a gentle scratch behind the ears.",
+      "results": {
+        "yake": {
+          "prompt": "Luna Nightshade, Celeste, Goodnight, Street, Willow, Nightshade, Luna, creative, story, idea, watercolor fantasy, scene 1, cheerful atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_a2cf8489fbce4c31b4bde744765edede.png",
+          "clip_score": 0.2772883176803589,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.635709822177887
+            ],
+            "recall": [
+              0.3797147572040558
+            ],
+            "f1": [
+              0.4754432737827301
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09090909090909091,
+              "f1": 0.16666666666666669
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.045454545454545456,
+              "f1": 0.08333333333333334
+            }
+          },
+          "brisque_score": 10.27850341796875
+        },
+        "keybert": {
+          "prompt": "Luna Nightshade, Celeste, luna, goodnight, nightshade, moon, cozy, night, fluffy, cat, watercolor fantasy, scene 1, cheerful atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_b9c1d4e832474bbc9678bba154021692.png",
+          "clip_score": 0.26437908411026,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5134764909744263
+            ],
+            "recall": [
+              0.3360113203525543
+            ],
+            "f1": [
+              0.4062069356441498
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09090909090909091,
+              "f1": 0.16666666666666669
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.011494252873563218,
+              "f1": 0.021276595744680854
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.056818181818181816,
+              "f1": 0.10416666666666666
+            }
+          },
+          "brisque_score": 8.93182373046875
+        },
+        "simple": {
+          "prompt": "Luna Nightshade, Celeste, neighborhood, embroidered, nightshade, paragraph, goodnight, creative, midnight, brightly, watercolor fantasy, scene 1, cheerful atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_eec28ab3934244ae8ccb9e25037573be.png",
+          "clip_score": 0.276362806558609,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4908636808395386
+            ],
+            "recall": [
+              0.3349938690662384
+            ],
+            "f1": [
+              0.39821958541870117
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09090909090909091,
+              "f1": 0.16666666666666669
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.045454545454545456,
+              "f1": 0.08333333333333334
+            }
+          },
+          "brisque_score": 7.46844482421875
+        }
+      }
+    },
+    {
+      "id": 2,
+      "text": "As she climbed into bed, the room was filled with the warm scent of fresh cookies baking in the oven downstairs. Her mother, Celeste, had left them there as a midnight treat for Luna after her long day at school. The aroma wafted up to Luna's nose, making her stomach growl with anticipation. She snuggled under the covers, her eyes sparkling with excitement, and whispered, \"Mommy, can I have just one cookie?\" Midnight, sensing the magic in the air, stood up on his hind legs and began to purr softly.",
+      "results": {
+        "yake": {
+          "prompt": "Luna Nightshade, Celeste, Luna, bed, downstairs, climbed, room, filled, warm, scent, watercolor fantasy, scene 2, cheerful atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_2f9a76df7f46417b8b5624e001e6ce6d.png",
+          "clip_score": 0.2878018319606781,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5553474426269531
+            ],
+            "recall": [
+              0.3467101752758026
+            ],
+            "f1": [
+              0.4269008934497833
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08791208791208792,
+              "f1": 0.16161616161616163
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.011111111111111112,
+              "f1": 0.02061855670103093
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.054945054945054944,
+              "f1": 0.10101010101010101
+            }
+          },
+          "brisque_score": 12.73846435546875
+        },
+        "keybert": {
+          "prompt": "Luna Nightshade, Celeste, luna, celeste, cookies, cookie, baking, snuggled, mother, scent, watercolor fantasy, scene 2, cheerful atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_d6afd8fea8ea4b71b241a6fd03b5cd5d.png",
+          "clip_score": 0.2700825333595276,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.49524012207984924
+            ],
+            "recall": [
+              0.3282642364501953
+            ],
+            "f1": [
+              0.39482396841049194
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08791208791208792,
+              "f1": 0.16161616161616163
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.011111111111111112,
+              "f1": 0.02061855670103093
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.03296703296703297,
+              "f1": 0.060606060606060615
+            }
+          },
+          "brisque_score": 10.36883544921875
+        },
+        "simple": {
+          "prompt": "Luna Nightshade, Celeste, anticipation, downstairs, excitement, sparkling, whispered, midnight, snuggled, climbed, watercolor fantasy, scene 2, cheerful atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_edb99a4f45c6449eaed9b190d92b5ddf.png",
+          "clip_score": 0.26117143034935,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5013782978057861
+            ],
+            "recall": [
+              0.311665803194046
+            ],
+            "f1": [
+              0.38438868522644043
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08791208791208792,
+              "f1": 0.16161616161616163
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.04395604395604396,
+              "f1": 0.08080808080808081
+            }
+          },
+          "brisque_score": 8.99237060546875
+        }
+      }
+    },
+    {
+      "id": 3,
+      "text": "Celeste, who was busy reading a book in her favorite armchair by the window, smiled and said, \"Of course, sweetie. Just one.\" She handed Luna a still-warm cookie wrapped in a napkin, and Luna's face lit up like the stars on a clear night. As she took a bite of the soft, chewy goodness, the room was filled with the sweet sound of children's laughter from next door. Luna giggled along with them, her eyes shining bright with joy.",
+      "results": {
+        "yake": {
+          "prompt": "Luna Nightshade, Celeste, Celeste, sweetie, Luna, window, smiled, busy, reading, book, watercolor fantasy, scene 3, cheerful atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_ded124b4462f41398bd028c5632abf0f.png",
+          "clip_score": 0.2965511977672577,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5989896059036255
+            ],
+            "recall": [
+              0.3527732491493225
+            ],
+            "f1": [
+              0.4440339505672455
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0975609756097561,
+              "f1": 0.17777777777777776
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.024691358024691357,
+              "f1": 0.045454545454545456
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.04878048780487805,
+              "f1": 0.08888888888888888
+            }
+          },
+          "brisque_score": 9.73895263671875
+        },
+        "keybert": {
+          "prompt": "Luna Nightshade, Celeste, celeste, luna, smiled, sweetie, giggled, children, shining, joy, watercolor fantasy, scene 3, cheerful atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_0755d64b18644ef2a38bc05ec581a0f4.png",
+          "clip_score": 0.2891966700553894,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5425592064857483
+            ],
+            "recall": [
+              0.3482195734977722
+            ],
+            "f1": [
+              0.4241900146007538
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0975609756097561,
+              "f1": 0.17777777777777776
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.07317073170731707,
+              "f1": 0.13333333333333333
+            }
+          },
+          "brisque_score": 8.93182373046875
+        },
+        "simple": {
+          "prompt": "Luna Nightshade, Celeste, still-warm, favorite, armchair, goodness, children, laughter, celeste, reading, watercolor fantasy, scene 3, cheerful atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_cc8bfa0d69194172805f55369dd76019.png",
+          "clip_score": 0.2731693387031555,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6303383708000183
+            ],
+            "recall": [
+              0.3729666471481323
+            ],
+            "f1": [
+              0.4686415493488312
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.10975609756097561,
+              "f1": 0.1978021978021978
+            },
+            "rouge2": {
+              "precision": 0.25,
+              "recall": 0.024691358024691357,
+              "f1": 0.0449438202247191
+            },
+            "rougeL": {
+              "precision": 0.5555555555555556,
+              "recall": 0.06097560975609756,
+              "f1": 0.10989010989010989
+            }
+          },
+          "brisque_score": 18.39569091796875
+        }
+      }
+    },
+    {
+      "id": 4,
+      "text": "As the cookie crumbs disappeared, Luna snuggled deeper into bed and pulled Midnight close. The cat purred contentedly as she stroked his soft fur. Outside, the moon continued to shine brightly, casting a silver path across the night sky. Luna's eyelids grew heavy, but she didn't want the magic of the night to fade away just yet. She whispered to Midnight, \"Can we have a midnight adventure?\" The cat's ears perked up, and he gave her a sly meow.",
+      "results": {
+        "yake": {
+          "prompt": "Luna Nightshade, Celeste, Midnight, Luna, disappeared, close, cookie, crumbs, snuggled, deeper, watercolor fantasy, scene 4, cheerful atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_900bb74a817d421d8646b51c5f284e5a.png",
+          "clip_score": 0.27091437578201294,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5568448901176453
+            ],
+            "recall": [
+              0.3540738821029663
+            ],
+            "f1": [
+              0.432890921831131
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0975609756097561,
+              "f1": 0.17777777777777776
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.024691358024691357,
+              "f1": 0.045454545454545456
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.04878048780487805,
+              "f1": 0.08888888888888888
+            }
+          },
+          "brisque_score": 1.79022216796875
+        },
+        "keybert": {
+          "prompt": "Luna Nightshade, Celeste, luna, meow, moon, midnight, cat, night, snuggled, bed, watercolor fantasy, scene 4, cheerful atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_39b5a8fe320c4e3db2cc80258c586106.png",
+          "clip_score": 0.32135966420173645,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4846171736717224
+            ],
+            "recall": [
+              0.3232730031013489
+            ],
+            "f1": [
+              0.3878340423107147
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0975609756097561,
+              "f1": 0.17777777777777776
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.04878048780487805,
+              "f1": 0.08888888888888888
+            }
+          },
+          "brisque_score": 13.36541748046875
+        },
+        "simple": {
+          "prompt": "Luna Nightshade, Celeste, disappeared, contentedly, continued, whispered, adventure, snuggled, midnight, brightly, watercolor fantasy, scene 4, cheerful atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_8324c16237a346ada6913a147e8b4bb5.png",
+          "clip_score": 0.2642269432544708,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5263203978538513
+            ],
+            "recall": [
+              0.3296259343624115
+            ],
+            "f1": [
+              0.405373215675354
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0975609756097561,
+              "f1": 0.17777777777777776
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.06097560975609756,
+              "f1": 0.1111111111111111
+            }
+          },
+          "brisque_score": 8.24627685546875
+        }
+      }
+    },
+    {
+      "id": 5,
+      "text": "In a flash of moonlight, Luna and Midnight vanished from their bedroom, leaving behind a trail of cookie crumbs leading out into the night. They explored the neighborhood, chasing fireflies and making wishes on shooting stars. As they wandered, the world around them came alive with music  birds singing in the trees, crickets chirping in the bushes, and the distant hum of a saxophone drifting from the nearby park. Luna felt free and wild, like she was floating on a cloud made of moonbeams. And as the night wore on, she knew that no matter where their adventures took her, she would always have Midnight by her side to guide her back home to the cozy little house on Willow Street.",
+      "results": {
+        "yake": {
+          "prompt": "Luna Nightshade, Celeste, Luna, moonlight, bedroom, leaving, Midnight, flash, vanished, trail, watercolor fantasy, scene 5, cheerful atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_b46b464f266a4f70bf56489d371af9a1.png",
+          "clip_score": 0.29504045844078064,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.46983468532562256
+            ],
+            "recall": [
+              0.30716371536254883
+            ],
+            "f1": [
+              0.37147095799446106
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.06611570247933884,
+              "f1": 0.12403100775193798
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.008333333333333333,
+              "f1": 0.015748031496062992
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.03305785123966942,
+              "f1": 0.06201550387596899
+            }
+          },
+          "brisque_score": 15.62860107421875
+        },
+        "keybert": {
+          "prompt": "Luna Nightshade, Celeste, moonlight, luna, moonbeams, night, fireflies, midnight, flash, willow, watercolor fantasy, scene 5, cheerful atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_a39c8f73fa7c4014b26db9528b844275.png",
+          "clip_score": 0.295299232006073,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5184608697891235
+            ],
+            "recall": [
+              0.32476168870925903
+            ],
+            "f1": [
+              0.3993636667728424
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.06611570247933884,
+              "f1": 0.12403100775193798
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.008333333333333333,
+              "f1": 0.015748031496062992
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.049586776859504134,
+              "f1": 0.09302325581395349
+            }
+          },
+          "brisque_score": 12.00701904296875
+        },
+        "simple": {
+          "prompt": "Luna Nightshade, Celeste, neighborhood, adventures, moonlight, fireflies, saxophone, moonbeams, midnight, vanished, watercolor fantasy, scene 5, cheerful atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_6215d22ddc3b458b838703763f9506db.png",
+          "clip_score": 0.31274402141571045,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5586588382720947
+            ],
+            "recall": [
+              0.3588341772556305
+            ],
+            "f1": [
+              0.43698620796203613
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.06611570247933884,
+              "f1": 0.12403100775193798
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.008333333333333333,
+              "f1": 0.015748031496062992
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.04132231404958678,
+              "f1": 0.07751937984496124
+            }
+          },
+          "brisque_score": 9.42449951171875
+        }
+      }
+    }
+  ]
+}

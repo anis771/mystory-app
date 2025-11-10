@@ -1,0 +1,598 @@
+{
+  "id": "exp_20250920_193135",
+  "title": "The Adventures of Charlie And The",
+  "context": {
+    "characters": {
+      "Charlie Bucket": "a small, bespectacled boy"
+    },
+    "settings": [
+      "Wonka Woods",
+      "Wonka Chocolate Factory"
+    ],
+    "art_style": "watercolor fantasy",
+    "mood": "whimsical",
+    "theme": "fantasy",
+    "setting_type": "magical",
+    "color_palette": "vibrant rainbow",
+    "key_elements": [
+      "golden gate",
+      "velvet-red carpet",
+      "chocolate chip cookie-shaped door",
+      "copper pipes",
+      "glass vials"
+    ]
+  },
+  "consistency": 0.3181818181818182,
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "As the sun dipped into the horizon, casting a warm orange glow over the rolling hills and verdant forests of Wonka Woods, a small, bespectacled boy named Charlie Bucket stood at the edge of the grandest, most wondrous sight he had ever laid eyes on. Before him lay the majestic, shimmering facade of the mysterious and magical Wonka Chocolate Factory, its turrets and towers reaching for the stars like sugary spires of a candy-coated castle. The air was alive with the sweet scent of melting chocolate, tantalizing Charlie's taste buds and making his mouth water in anticipation.",
+      "results": {
+        "yake": {
+          "prompt": "Charlie Bucket, Woods, Wonka, Bucket, Charlie, horizon, casting, small, bespectacled, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_91e8ed254f6c4b9e9f826f5d34aa9676.png",
+          "clip_score": 0.2749911844730377,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.577277660369873
+            ],
+            "recall": [
+              0.33238914608955383
+            ],
+            "f1": [
+              0.42187055945396423
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08080808080808081,
+              "f1": 0.14953271028037382
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.02040816326530612,
+              "f1": 0.038095238095238085
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.04040404040404041,
+              "f1": 0.07476635514018691
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 14.64569091796875
+        },
+        "keybert": {
+          "prompt": "Charlie Bucket, wonka, chocolate, charlie, candy, wondrous, bucket, castle, woods, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_812192920da441aaa773b874d1874c03.png",
+          "clip_score": 0.30124738812446594,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4438167214393616
+            ],
+            "recall": [
+              0.30469030141830444
+            ],
+            "f1": [
+              0.36132365465164185
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08080808080808081,
+              "f1": 0.14953271028037382
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.01020408163265306,
+              "f1": 0.019047619047619042
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.04040404040404041,
+              "f1": 0.07476635514018691
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 13.03021240234375
+        },
+        "simple": {
+          "prompt": "Charlie Bucket, bespectacled, candy-coated, anticipation, tantalizing, shimmering, mysterious, chocolate, grandest, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_aa1f967101104a299f2cb2ff25d17d1d.png",
+          "clip_score": 0.2787385582923889,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6429537534713745
+            ],
+            "recall": [
+              0.4035549759864807
+            ],
+            "f1": [
+              0.49587196111679077
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09090909090909091,
+              "f1": 0.16666666666666669
+            },
+            "rouge2": {
+              "precision": 0.125,
+              "recall": 0.01020408163265306,
+              "f1": 0.018867924528301883
+            },
+            "rougeL": {
+              "precision": 0.4444444444444444,
+              "recall": 0.04040404040404041,
+              "f1": 0.07407407407407408
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 6.68353271484375
+        }
+      }
+    },
+    {
+      "id": 2,
+      "text": "Charlie's eyes widened as he took in the sheer scale and whimsical grandeur of the factory's entrance, where a gleaming golden gate swung open like the jaws of a giant, candy-filled maw. A velvet-red carpet, soft and inviting as a cloud, stretched out before him, leading to the factory's main door, which was shaped like a chocolate chip cookie, complete with crispy edges and a gooey center. The sound of gentle chimes and tinkling laughter floated out into the evening air, drawing Charlie in like a magnet, his heart skipping beats with excitement.",
+      "results": {
+        "yake": {
+          "prompt": "Charlie Bucket, factory, entrance, giant, candy-filled, maw, Charlie, eyes, widened, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_5eea876496ac48ef952760c059dbfa6c.png",
+          "clip_score": 0.283799409866333,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6471329927444458
+            ],
+            "recall": [
+              0.40760982036590576
+            ],
+            "f1": [
+              0.5001745820045471
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09183673469387756,
+              "f1": 0.16822429906542058
+            },
+            "rouge2": {
+              "precision": 0.5,
+              "recall": 0.041237113402061855,
+              "f1": 0.0761904761904762
+            },
+            "rougeL": {
+              "precision": 0.7777777777777778,
+              "recall": 0.07142857142857142,
+              "f1": 0.1308411214953271
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 8.08636474609375
+        },
+        "keybert": {
+          "prompt": "Charlie Bucket, charlie, chimes, candy, chocolate, door, gate, whimsical, tinkling, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_3fe30b39bddb4f6ab9cc6864d0f443ea.png",
+          "clip_score": 0.30464595556259155,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5214585065841675
+            ],
+            "recall": [
+              0.3613933026790619
+            ],
+            "f1": [
+              0.42691561579704285
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08163265306122448,
+              "f1": 0.15094339622641506
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.04081632653061224,
+              "f1": 0.07547169811320753
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 17.53729248046875
+        },
+        "simple": {
+          "prompt": "Charlie Bucket, candy-filled, velvet-red, excitement, whimsical, stretched, chocolate, grandeur, entrance, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_7c1240b48ad1477d94fc6e1c1f61dc93.png",
+          "clip_score": 0.2879582941532135,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6390167474746704
+            ],
+            "recall": [
+              0.41192007064819336
+            ],
+            "f1": [
+              0.5009317994117737
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.10204081632653061,
+              "f1": 0.1851851851851852
+            },
+            "rouge2": {
+              "precision": 0.2222222222222222,
+              "recall": 0.020618556701030927,
+              "f1": 0.037735849056603765
+            },
+            "rougeL": {
+              "precision": 0.6,
+              "recall": 0.061224489795918366,
+              "f1": 0.1111111111111111
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 11.43499755859375
+        }
+      }
+    },
+    {
+      "id": 3,
+      "text": "As Charlie pushed open the cookie-shaped door, a warm light spilled out, bathing him in its golden glow. He stepped inside, his eyes adjusting to the cozy, honey-colored interior of the factory, where rows of gleaming copper pipes and twinkling glass vials seemed to stretch on forever. The air was thick with the aroma of melting chocolate, roasting nuts, and something faintly magical – a scent that made Charlie's nose twitch with anticipation. He wandered deeper into the factory, marveling at the fantastical contraptions and wondrous machinery whirring and humming around him.",
+      "results": {
+        "yake": {
+          "prompt": "Charlie Bucket, Charlie, door, bathing, glow, factory, pushed, open, cookie-shaped, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_26d11418857b403aa1994262fba25c86.png",
+          "clip_score": 0.2590169310569763,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5689694285392761
+            ],
+            "recall": [
+              0.3243519067764282
+            ],
+            "f1": [
+              0.4131689667701721
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09574468085106383,
+              "f1": 0.17475728155339806
+            },
+            "rouge2": {
+              "precision": 0.25,
+              "recall": 0.021505376344086023,
+              "f1": 0.03960396039603961
+            },
+            "rougeL": {
+              "precision": 0.5555555555555556,
+              "recall": 0.05319148936170213,
+              "f1": 0.0970873786407767
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 11.13006591796875
+        },
+        "keybert": {
+          "prompt": "Charlie Bucket, charlie, chocolate, scent, nose, aroma, twinkling, factory, faintly, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_4e56223882924cb3aa2fd61cbe024460.png",
+          "clip_score": 0.26440659165382385,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5168530941009521
+            ],
+            "recall": [
+              0.3446192145347595
+            ],
+            "f1": [
+              0.41351884603500366
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0851063829787234,
+              "f1": 0.1568627450980392
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.05319148936170213,
+              "f1": 0.09803921568627451
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 3.92083740234375
+        },
+        "simple": {
+          "prompt": "Charlie Bucket, cookie-shaped, honey-colored, anticipation, contraptions, fantastical, adjusting, twinkling, chocolate, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_b7dd45b2d34942d582fd10c490028882.png",
+          "clip_score": 0.27385061979293823,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6641186475753784
+            ],
+            "recall": [
+              0.3968810439109802
+            ],
+            "f1": [
+              0.4968448281288147
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.10638297872340426,
+              "f1": 0.1923076923076923
+            },
+            "rouge2": {
+              "precision": 0.2222222222222222,
+              "recall": 0.021505376344086023,
+              "f1": 0.0392156862745098
+            },
+            "rougeL": {
+              "precision": 0.6,
+              "recall": 0.06382978723404255,
+              "f1": 0.11538461538461536
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 9.74188232421875
+        }
+      }
+    },
+    {
+      "id": 4,
+      "text": "Suddenly, a tiny, bespectacled figure in a bright orange suit appeared before Charlie, his eyes twinkling like stars behind wire-rimmed glasses. \"Ah, ah, ah! Welcome to my humble abode, young Charlie Bucket!\" exclaimed the diminutive genius, whose name tag read 'Willy Wonka'. The eccentric chocolatier's wild grey hair stood on end, as if electrified by his own creative energy. As he led Charlie deeper into the factory, Willy regaled him with tales of his most fantastical confections, including lollipops that played music and chocolates that made you levitate.",
+      "results": {
+        "yake": {
+          "prompt": "Charlie Bucket, Suddenly, Charlie, Willy, tiny, bespectacled, glasses, figure, bright, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_9c02d569757b4a3082c45d5124959907.png",
+          "clip_score": 0.32087624073028564,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6226149797439575
+            ],
+            "recall": [
+              0.3635610342025757
+            ],
+            "f1": [
+              0.45906317234039307
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08888888888888889,
+              "f1": 0.163265306122449
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.011235955056179775,
+              "f1": 0.020833333333333332
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.05555555555555555,
+              "f1": 0.10204081632653061
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 17.39141845703125
+        },
+        "keybert": {
+          "prompt": "Charlie Bucket, willy, charlie, bucket, chocolatier, wonka, chocolates, humble, diminutive, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_a58e27555b4044418df7b30e9abc809d.png",
+          "clip_score": 0.2873761057853699,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5231381058692932
+            ],
+            "recall": [
+              0.3202180564403534
+            ],
+            "f1": [
+              0.39726579189300537
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08888888888888889,
+              "f1": 0.163265306122449
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.011235955056179775,
+              "f1": 0.020833333333333332
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.044444444444444446,
+              "f1": 0.0816326530612245
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 14.82623291015625
+        },
+        "simple": {
+          "prompt": "Charlie Bucket, bespectacled, wire-rimmed, chocolatier, electrified, fantastical, confections, diminutive, chocolates, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_edec1223d3494e8c9ce4c5186631602d.png",
+          "clip_score": 0.28736335039138794,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6664950847625732
+            ],
+            "recall": [
+              0.42147964239120483
+            ],
+            "f1": [
+              0.5163981914520264
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.1,
+              "f1": 0.18181818181818182
+            },
+            "rouge2": {
+              "precision": 0.25,
+              "recall": 0.02247191011235955,
+              "f1": 0.041237113402061855
+            },
+            "rougeL": {
+              "precision": 0.8888888888888888,
+              "recall": 0.08888888888888889,
+              "f1": 0.16161616161616163
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 10.05303955078125
+        }
+      }
+    },
+    {
+      "id": 5,
+      "text": "As they explored the wonders of the factory, Charlie's eyes grew wide with wonder at the sight of lollipop trees bearing fruit that tasted like sweet memories, and rivers of chocolate flowing through the heart of the factory, their surface adorned with edible gold leaf. Willy Wonka beamed with pride as he showed Charlie his most prized creations: the Everlasting Gobstoppers, which grew larger and more complex with each passing moment; and the mysterious, glowing Fizzy Lifting Drinks that made you feel like you were floating on a cloud. As the night wore on, Charlie's heart swelled with excitement and gratitude for this magical adventure, knowing that he had stumbled upon something truly extraordinary – a world where imagination knew no bounds, and wonder waited around every corner.",
+      "results": {
+        "yake": {
+          "prompt": "Charlie Bucket, factory, Charlie, grew, memories, leaf, explored, eyes, wide, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_3fcbe207cdf64780a077dbfd0fc0974e.png",
+          "clip_score": 0.27013400197029114,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4898275136947632
+            ],
+            "recall": [
+              0.30454909801483154
+            ],
+            "f1": [
+              0.3755813539028168
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.06201550387596899,
+              "f1": 0.1167883211678832
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.0078125,
+              "f1": 0.014814814814814815
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.03875968992248062,
+              "f1": 0.07299270072992702
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 11.79827880859375
+        },
+        "keybert": {
+          "prompt": "Charlie Bucket, charlie, willy, chocolate, gobstoppers, imagination, wonka, fruit, tasted, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_d7d15d238560412484ad102e2e6f2c13.png",
+          "clip_score": 0.2626078724861145,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4725007116794586
+            ],
+            "recall": [
+              0.2920302748680115
+            ],
+            "f1": [
+              0.36096513271331787
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.06201550387596899,
+              "f1": 0.1167883211678832
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.031007751937984496,
+              "f1": 0.0583941605839416
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 6.62286376953125
+        },
+        "simple": {
+          "prompt": "Charlie Bucket, extraordinary, everlasting, gobstoppers, imagination, mysterious, excitement, chocolate, creations, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_afe5d47e94dd49a58d4b4e0b306dbe09.png",
+          "clip_score": 0.26975569128990173,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.559524416923523
+            ],
+            "recall": [
+              0.3341922163963318
+            ],
+            "f1": [
+              0.4184519052505493
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.06201550387596899,
+              "f1": 0.1167883211678832
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.0078125,
+              "f1": 0.014814814814814815
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.031007751937984496,
+              "f1": 0.0583941605839416
+            }
+          },
+          "sentiment": {},
+          "brisque_score": 4.54034423828125
+        }
+      }
+    }
+  ]
+}

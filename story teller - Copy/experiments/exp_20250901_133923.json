@@ -1,0 +1,589 @@
+{
+  "id": "exp_20250901_133923",
+  "title": "The Tale of The Three Little Pigs",
+  "context": {
+    "characters": {
+      "Piper": "conjured magnificent illusions",
+      "Penny": "possessed unparalleled culinary skills",
+      "Paisley": "remarkable gift for crafting wondrous trinkets from twigs and stones"
+    },
+    "settings": [
+      "rolling hill",
+      "lush forest's edge",
+      "bed of soft moss"
+    ],
+    "art_style": "watercolor fantasy",
+    "mood": "whimsical",
+    "theme": "fantasy",
+    "setting_type": "magical",
+    "color_palette": "warm earth tones",
+    "key_elements": [
+      "gleaming silver bricks",
+      "shimmering glass windows",
+      "sturdy oak planks",
+      "vines",
+      "twigs",
+      "stones",
+      "glittering fairy lights",
+      "rainbow-colored blooms"
+    ]
+  },
+  "consistency": 0.5634469696969697,
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "In the enchanted realm of Fablewood, where sunbeams danced through wispy clouds and wildflowers swayed to the rhythm of gentle breezes, three little pigs named Piper, Penny, and Paisley lived in a cozy hamlet nestled between two great oaks. The trio was known for their extraordinary talents: Piper could conjure magnificent illusions, Penny possessed unparalleled culinary skills, and Paisley had a remarkable gift for crafting wondrous trinkets from twigs and stones. As they grew older, the pigs decided to build their own homes in preparation for the annual Harvest Moon Festival.",
+      "results": {
+        "yake": {
+          "prompt": "Piper, Penny, Penny, Fablewood, Paisley, Piper, breezes, oaks, enchanted, realm, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_75fe576802cb4cf5a7e158d6d25be27f.png",
+          "clip_score": 0.2641201913356781,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5799216032028198
+            ],
+            "recall": [
+              0.3878292441368103
+            ],
+            "f1": [
+              0.46481087803840637
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08791208791208792,
+              "f1": 0.16161616161616163
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.011111111111111112,
+              "f1": 0.02061855670103093
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.03296703296703297,
+              "f1": 0.060606060606060615
+            }
+          },
+          "brisque_score": 13.30926513671875
+        },
+        "keybert": {
+          "prompt": "Piper, Penny, fablewood, enchanted, paisley, wildflowers, pigs, piper, trinkets, oaks, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_e8403a0871744dd4be90ee56f6836030.png",
+          "clip_score": 0.2828257381916046,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5788873434066772
+            ],
+            "recall": [
+              0.3910859525203705
+            ],
+            "f1": [
+              0.4668060541152954
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08791208791208792,
+              "f1": 0.16161616161616163
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.054945054945054944,
+              "f1": 0.10101010101010101
+            }
+          },
+          "brisque_score": 8.47869873046875
+        },
+        "simple": {
+          "prompt": "Piper, Penny, extraordinary, unparalleled, wildflowers, magnificent, preparation, remarkable, enchanted, fablewood, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_8b57665166bd42688d0eec67414cf4f6.png",
+          "clip_score": 0.28599289059638977,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5650566816329956
+            ],
+            "recall": [
+              0.3710160255432129
+            ],
+            "f1": [
+              0.44792476296424866
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08791208791208792,
+              "f1": 0.16161616161616163
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.03296703296703297,
+              "f1": 0.060606060606060615
+            }
+          },
+          "brisque_score": 10.92791748046875
+        }
+      }
+    },
+    {
+      "id": 2,
+      "text": "Piper, being the most adventurous of the three, chose a location atop a rolling hill, where she constructed her abode using gleaming silver bricks and shimmering glass windows. The result was a dazzling mansion that seemed to defy gravity with its precarious slope and precarious overhangs. Penny opted for a spot near the lush forest's edge, crafting her home from sturdy oak planks and vines that appeared woven by nature itself. Paisley, the most whimsical of the trio, built her cozy cottage on a bed of soft moss, surrounded by a tangle of glittering fairy lights and a garden bursting with rainbow-colored blooms.",
+      "results": {
+        "yake": {
+          "prompt": "Piper, Penny, Piper, chose, hill, windows, adventurous, location, atop, rolling, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_7aaba8d7682c462c94aaeaa137e1cea0.png",
+          "clip_score": 0.28052783012390137,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6001214385032654
+            ],
+            "recall": [
+              0.3534436821937561
+            ],
+            "f1": [
+              0.4448760449886322
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0761904761904762,
+              "f1": 0.14159292035398233
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.009615384615384616,
+              "f1": 0.01801801801801802
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.047619047619047616,
+              "f1": 0.08849557522123892
+            }
+          },
+          "brisque_score": 16.05096435546875
+        },
+        "keybert": {
+          "prompt": "Piper, Penny, piper, garden, mansion, cottage, cozy, paisley, moss, fairy, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_2cc08969071a4519b90397ed75dbfdad.png",
+          "clip_score": 0.3097618520259857,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5361602902412415
+            ],
+            "recall": [
+              0.34228411316871643
+            ],
+            "f1": [
+              0.4178275763988495
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0761904761904762,
+              "f1": 0.14159292035398233
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.047619047619047616,
+              "f1": 0.08849557522123892
+            }
+          },
+          "brisque_score": 10.92156982421875
+        },
+        "simple": {
+          "prompt": "Piper, Penny, rainbow-colored, adventurous, constructed, shimmering, precarious, surrounded, glittering, overhangs, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_2e9ee51d2c714c20b5ac68b0a8bcb024.png",
+          "clip_score": 0.27815479040145874,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.625487208366394
+            ],
+            "recall": [
+              0.3908800780773163
+            ],
+            "f1": [
+              0.48110654950141907
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08571428571428572,
+              "f1": 0.15789473684210528
+            },
+            "rouge2": {
+              "precision": 0.125,
+              "recall": 0.009615384615384616,
+              "f1": 0.01785714285714286
+            },
+            "rougeL": {
+              "precision": 0.6666666666666666,
+              "recall": 0.05714285714285714,
+              "f1": 0.10526315789473684
+            }
+          },
+          "brisque_score": 12.16278076171875
+        }
+      }
+    },
+    {
+      "id": 3,
+      "text": "As the Harvest Moon Festival approached, rumors spread about the mischievous Wolf King's desire to spoil the celebration. The pigs, determined to protect their homes and the festival, began making preparations. Piper crafted elaborate illusions to confuse potential invaders, Penny perfected her culinary skills to create irresistible treats, and Paisley fashioned an arsenal of sparkling trinkets to distract would-be attackers. Meanwhile, the Wolf King and his minions plotted in secret, their eyes fixed on the three little pigs' homes.",
+      "results": {
+        "yake": {
+          "prompt": "Piper, Penny, Harvest, Moon, Festival, Wolf, King, approached, rumors, celebration, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_b50a2ffd6be04bc5a6869efc2dcb81b2.png",
+          "clip_score": 0.2894870340824127,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.4882259964942932
+            ],
+            "recall": [
+              0.30456626415252686
+            ],
+            "f1": [
+              0.37512266635894775
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09876543209876543,
+              "f1": 0.1797752808988764
+            },
+            "rouge2": {
+              "precision": 0.5714285714285714,
+              "recall": 0.05,
+              "f1": 0.09195402298850575
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.07407407407407407,
+              "f1": 0.1348314606741573
+            }
+          },
+          "brisque_score": 10.46356201171875
+        },
+        "keybert": {
+          "prompt": "Piper, Penny, pigs, wolf, harvest, piper, penny, moon, treats, trinkets, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_2b42bfc4e5064b39aa8e4a0c2cf25fa2.png",
+          "clip_score": 0.32251185178756714,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5382025241851807
+            ],
+            "recall": [
+              0.3366316258907318
+            ],
+            "f1": [
+              0.41419506072998047
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09876543209876543,
+              "f1": 0.1797752808988764
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.06172839506172839,
+              "f1": 0.11235955056179774
+            }
+          },
+          "brisque_score": 8.71307373046875
+        },
+        "simple": {
+          "prompt": "Piper, Penny, preparations, irresistible, mischievous, celebration, approached, determined, elaborate, illusions, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_46ea0e91447940e8b19f3ef891e6d150.png",
+          "clip_score": 0.27808213233947754,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5140352845191956
+            ],
+            "recall": [
+              0.33274906873703003
+            ],
+            "f1": [
+              0.4039866030216217
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09876543209876543,
+              "f1": 0.1797752808988764
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.0125,
+              "f1": 0.022988505747126436
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.06172839506172839,
+              "f1": 0.11235955056179774
+            }
+          },
+          "brisque_score": 12.62518310546875
+        }
+      }
+    },
+    {
+      "id": 4,
+      "text": "One fateful evening, as the moon hung low in the sky, the Wolf King's army descended upon Fablewood. Piper's mansion shimmered with an otherworldly glow, confusing the invaders and causing them to stumble about in disarray. Penny's home stood firm against the wolves' snarls and snapping jaws, its sturdy walls unyielding like a fortress of sweet honeycomb. Paisley's cottage, however, proved vulnerable to the wolf king's cunning, as his minions exploited her whimsical defenses and breached the magical barrier.",
+      "results": {
+        "yake": {
+          "prompt": "Piper, Penny, Fablewood, Wolf, evening, sky, King, fateful, moon, hung, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_9bf7c35f50ab4a66abb16efac85b2b42.png",
+          "clip_score": 0.28233176469802856,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.6384792327880859
+            ],
+            "recall": [
+              0.35028165578842163
+            ],
+            "f1": [
+              0.4523794651031494
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09523809523809523,
+              "f1": 0.17391304347826084
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.012048192771084338,
+              "f1": 0.022222222222222223
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.03571428571428571,
+              "f1": 0.06521739130434782
+            }
+          },
+          "brisque_score": 4.38885498046875
+        },
+        "keybert": {
+          "prompt": "Piper, Penny, cottage, wolf, fateful, mansion, fablewood, penny, piper, wolves, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_8ea82c0dd01b463ba005c20597f206aa.png",
+          "clip_score": 0.29104095697402954,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5238549709320068
+            ],
+            "recall": [
+              0.3250713646411896
+            ],
+            "f1": [
+              0.4011897146701813
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09523809523809523,
+              "f1": 0.17391304347826084
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.047619047619047616,
+              "f1": 0.08695652173913042
+            }
+          },
+          "brisque_score": 14.23651123046875
+        },
+        "simple": {
+          "prompt": "Piper, Penny, otherworldly, unyielding, vulnerable, descended, fablewood, shimmered, confusing, honeycomb, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_366ebd3d7f474f97af95ae1a2d13a5f1.png",
+          "clip_score": 0.2347785085439682,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5386067628860474
+            ],
+            "recall": [
+              0.3702147305011749
+            ],
+            "f1": [
+              0.43881040811538696
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09523809523809523,
+              "f1": 0.17391304347826084
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.05952380952380952,
+              "f1": 0.10869565217391304
+            }
+          },
+          "brisque_score": 10.69500732421875
+        }
+      }
+    },
+    {
+      "id": 5,
+      "text": "In the aftermath of the invasion, the three little pigs stood united, their homes now in ruins. Piper's illusions had failed to protect her mansion, Penny's fortress had been breached by sheer force, and Paisley's whimsy had proven no match for cunning strategy. As they surveyed the devastation, a glimmer of determination ignited within each pig. Together, they vowed to rebuild and strengthen their defenses, knowing that unity and creativity would be the keys to defending their homes against future threats. And so, with newfound resolve, Piper, Penny, and Paisley set out on a journey to create an even more magnificent Fablewood, where whimsy and wonder would flourish forevermore.",
+      "results": {
+        "yake": {
+          "prompt": "Piper, Penny, Penny, invasion, united, ruins, Paisley, Piper, aftermath, stood, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_23890baedbf64f598ab2b6f404c8aa51.png",
+          "clip_score": 0.26783108711242676,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.48711809515953064
+            ],
+            "recall": [
+              0.29799070954322815
+            ],
+            "f1": [
+              0.36977463960647583
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07142857142857142,
+              "f1": 0.13333333333333333
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.044642857142857144,
+              "f1": 0.08333333333333334
+            }
+          },
+          "brisque_score": 9.27069091796875
+        },
+        "keybert": {
+          "prompt": "Piper, Penny, fablewood, whimsy, pigs, pig, piper, cunning, penny, paisley, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_4b3d4d6b2b8b45e0af8e039f721b2798.png",
+          "clip_score": 0.31788820028305054,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5226565599441528
+            ],
+            "recall": [
+              0.30211877822875977
+            ],
+            "f1": [
+              0.38290271162986755
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07142857142857142,
+              "f1": 0.13333333333333333
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.044642857142857144,
+              "f1": 0.08333333333333334
+            }
+          },
+          "brisque_score": 7.66668701171875
+        },
+        "simple": {
+          "prompt": "Piper, Penny, determination, devastation, magnificent, forevermore, strengthen, creativity, aftermath, illusions, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_2e8917a020e944dcb72f73608a0e1b6a.png",
+          "clip_score": 0.2548615038394928,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.47040751576423645
+            ],
+            "recall": [
+              0.27259406447410583
+            ],
+            "f1": [
+              0.3451683223247528
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07142857142857142,
+              "f1": 0.13333333333333333
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.026785714285714284,
+              "f1": 0.049999999999999996
+            }
+          },
+          "brisque_score": 10.06805419921875
+        }
+      }
+    }
+  ]
+}

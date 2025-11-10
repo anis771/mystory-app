@@ -1,0 +1,588 @@
+{
+  "id": "exp_20250901_161021",
+  "title": "The Tale of The Very Hungry Caterpillar",
+  "context": {
+    "characters": {
+      "Felix": "a tiny, furry creature",
+      "Luna": "a brilliant butterfly",
+      "Winston": "a wise old earthworm",
+      "Celeste": "a fluttering butterfly"
+    },
+    "settings": [
+      "lush, sun-kissed garden"
+    ],
+    "art_style": "watercolor whimsy",
+    "mood": "whimsical",
+    "theme": "children's fantasy",
+    "setting_type": "garden/nature",
+    "color_palette": "vibrant greens, warm yellows, soft pinks",
+    "key_elements": [
+      "petals",
+      "leaves",
+      "bees",
+      "honeycombs",
+      "juicy leaves",
+      "iridescent wings",
+      "stained glass",
+      "sweet, sticky honeydew"
+    ]
+  },
+  "consistency": 0.5666666666666667,
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "In a lush, sun-kissed garden, where petals unfolded like tiny wings and leaves whispered secrets to the breeze, a tiny, furry creature named Felix wobbled on unsteady legs. His bright green eyes shone with excitement as he surveyed his surroundings, taking in the vibrant hues of the flowers and the soft rustle of the grass. A gentle hum filled the air, as bees flitted from bloom to bloom, collecting nectar for their honeycombs. Felix's tail twitched with anticipation; it was almost time for him to embark on his own grand adventure.",
+      "results": {
+        "yake": {
+          "prompt": "Felix, Luna, tiny, lush, sun-kissed, garden, breeze, furry, legs, Felix, watercolor whimsy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_342afefb91114ddc840da28e17777634.png",
+          "clip_score": 0.26332899928092957,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6746279001235962
+            ],
+            "recall": [
+              0.3745209574699402
+            ],
+            "f1": [
+              0.48165199160575867
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0967741935483871,
+              "f1": 0.17647058823529413
+            },
+            "rouge2": {
+              "precision": 0.375,
+              "recall": 0.03260869565217391,
+              "f1": 0.06
+            },
+            "rougeL": {
+              "precision": 0.8888888888888888,
+              "recall": 0.08602150537634409,
+              "f1": 0.1568627450980392
+            }
+          },
+          "brisque_score": 4.76385498046875
+        },
+        "keybert": {
+          "prompt": "Felix, Luna, bees, felix, flowers, petals, garden, nectar, grass, sun, watercolor whimsy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_02b38d1dd8244d17a92c3259f73dce02.png",
+          "clip_score": 0.2946726977825165,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.48757877945899963
+            ],
+            "recall": [
+              0.3021394610404968
+            ],
+            "f1": [
+              0.37308692932128906
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08602150537634409,
+              "f1": 0.15841584158415845
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.03225806451612903,
+              "f1": 0.05940594059405941
+            }
+          },
+          "brisque_score": 4.82440185546875
+        },
+        "simple": {
+          "prompt": "Felix, Luna, surroundings, anticipation, sun-kissed, excitement, collecting, honeycombs, whispered, adventure, watercolor whimsy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_00672863c32d45499d450ac741b6aca2.png",
+          "clip_score": 0.2644420266151428,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5740869045257568
+            ],
+            "recall": [
+              0.3736320734024048
+            ],
+            "f1": [
+              0.45266011357307434
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0967741935483871,
+              "f1": 0.17647058823529413
+            },
+            "rouge2": {
+              "precision": 0.125,
+              "recall": 0.010869565217391304,
+              "f1": 0.02
+            },
+            "rougeL": {
+              "precision": 0.6666666666666666,
+              "recall": 0.06451612903225806,
+              "f1": 0.1176470588235294
+            }
+          },
+          "brisque_score": 7.11346435546875
+        }
+      }
+    },
+    {
+      "id": 2,
+      "text": "As Felix set off into the garden, his curiosity led him to a succulent patch of juicy leaves. His stomach growled with hunger, and he dug in, savoring the sweet, earthy flavor. The crunch of the leaves between his tiny teeth was music to his ears. Suddenly, a brilliant butterfly named Luna flitted onto a nearby petunia, her iridescent wings glimmering like stained glass. Felix's eyes widened in wonder as Luna's delicate feet danced across the petals, leaving behind a trail of sparkling dew. The two became fast friends, sharing stories of their favorite foods (Felix loved leaves, while Luna adored sweet, sticky honeydew).",
+      "results": {
+        "yake": {
+          "prompt": "Felix, Luna, Luna, Felix, garden, leaves, set, curiosity, led, succulent, watercolor whimsy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_754db6b598d44612b9a0c58b4b690ad6.png",
+          "clip_score": 0.26975059509277344,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.49141716957092285
+            ],
+            "recall": [
+              0.3237186074256897
+            ],
+            "f1": [
+              0.39031749963760376
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07547169811320754,
+              "f1": 0.14035087719298245
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.009523809523809525,
+              "f1": 0.01785714285714286
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.04716981132075472,
+              "f1": 0.08771929824561404
+            }
+          },
+          "brisque_score": 2.88201904296875
+        },
+        "keybert": {
+          "prompt": "Felix, Luna, felix, luna, butterfly, leaves, petals, honeydew, succulent, flitted, watercolor whimsy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_2c67b1d6a1d248e2b79647fcf6855364.png",
+          "clip_score": 0.3047213554382324,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5350844264030457
+            ],
+            "recall": [
+              0.3478891849517822
+            ],
+            "f1": [
+              0.42164361476898193
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07547169811320754,
+              "f1": 0.14035087719298245
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.03773584905660377,
+              "f1": 0.07017543859649122
+            }
+          },
+          "brisque_score": 8.98748779296875
+        },
+        "simple": {
+          "prompt": "Felix, Luna, iridescent, glimmering, curiosity, succulent, brilliant, butterfly, sparkling, savoring, watercolor whimsy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_a5e7a45d2b324d42990115f219e31392.png",
+          "clip_score": 0.20285770297050476,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5353699922561646
+            ],
+            "recall": [
+              0.31310418248176575
+            ],
+            "f1": [
+              0.39512479305267334
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07547169811320754,
+              "f1": 0.14035087719298245
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.009523809523809525,
+              "f1": 0.01785714285714286
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.04716981132075472,
+              "f1": 0.08771929824561404
+            }
+          },
+          "brisque_score": 8.10565185546875
+        }
+      }
+    },
+    {
+      "id": 3,
+      "text": "Together, Felix and Luna explored the garden, discovering hidden treasures and making new acquaintances. They met a wise old earthworm named Winston, who shared tales of underground tunnels and secret gardens. A fluttering butterfly named Celeste joined their group, her wings shimmering like diamonds in the sunlight. As they wandered, the air filled with the sweet scent of ripening strawberries. Felix's eyes grew wide with excitement as he spotted a succulent patch of red berries. His stomach growled with hunger, and he began to munch on the juicy treats.",
+      "results": {
+        "yake": {
+          "prompt": "Felix, Luna, Luna, discovering, acquaintances, Felix, explored, hidden, treasures, making, watercolor whimsy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_930f1c6a758e4dea8708a91272e300c5.png",
+          "clip_score": 0.24776136875152588,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5650323629379272
+            ],
+            "recall": [
+              0.3675154447555542
+            ],
+            "f1": [
+              0.4453565180301666
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08888888888888889,
+              "f1": 0.163265306122449
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.011235955056179775,
+              "f1": 0.020833333333333332
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.05555555555555555,
+              "f1": 0.10204081632653061
+            }
+          },
+          "brisque_score": 10.77899169921875
+        },
+        "keybert": {
+          "prompt": "Felix, Luna, felix, strawberries, earthworm, celeste, butterfly, berries, luna, gardens, watercolor whimsy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_ad262ea106b4485eb9b362c14fca0c48.png",
+          "clip_score": 0.2680560350418091,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5542482733726501
+            ],
+            "recall": [
+              0.3219678997993469
+            ],
+            "f1": [
+              0.40731993317604065
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08888888888888889,
+              "f1": 0.163265306122449
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.044444444444444446,
+              "f1": 0.0816326530612245
+            }
+          },
+          "brisque_score": 5.86737060546875
+        },
+        "simple": {
+          "prompt": "Felix, Luna, acquaintances, strawberries, discovering, underground, fluttering, shimmering, excitement, treasures, watercolor whimsy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_fe502c4ddec548bfa35b6c86fbca4cdc.png",
+          "clip_score": 0.24363864958286285,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5528032779693604
+            ],
+            "recall": [
+              0.33751583099365234
+            ],
+            "f1": [
+              0.4191302955150604
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08888888888888889,
+              "f1": 0.163265306122449
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.05555555555555555,
+              "f1": 0.10204081632653061
+            }
+          },
+          "brisque_score": 4.64520263671875
+        }
+      }
+    },
+    {
+      "id": 4,
+      "text": "As the sun began to set, casting a warm orange glow across the garden, Felix and his friends settled into a cozy circle around a particularly plump strawberry plant. Luna spun tales of her migratory journeys, while Winston regaled them with stories of the underground world. Celeste fluttered about, collecting nectar from the nearby flowers. Felix's full belly rumbled contentedly as he listened to their chatter. As the stars began to twinkle in the night sky, the group bid each other farewell, promising to meet again at dawn.",
+      "results": {
+        "yake": {
+          "prompt": "Felix, Luna, Felix, set, casting, garden, plant, sun, warm, orange, watercolor whimsy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_6934c5f5ab6148af91f42ebe6a84a342.png",
+          "clip_score": 0.2429949790239334,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5523922443389893
+            ],
+            "recall": [
+              0.3377540707588196
+            ],
+            "f1": [
+              0.41919565200805664
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0898876404494382,
+              "f1": 0.16494845360824742
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.022727272727272728,
+              "f1": 0.042105263157894736
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.0449438202247191,
+              "f1": 0.08247422680412371
+            }
+          },
+          "brisque_score": 9.58026123046875
+        },
+        "keybert": {
+          "prompt": "Felix, Luna, felix, sun, celeste, flowers, strawberry, nectar, stars, luna, watercolor whimsy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_a7e822c9ca884b49a651111a6c215ca8.png",
+          "clip_score": 0.2631494700908661,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.49177128076553345
+            ],
+            "recall": [
+              0.30736052989959717
+            ],
+            "f1": [
+              0.378288209438324
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0898876404494382,
+              "f1": 0.16494845360824742
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.0449438202247191,
+              "f1": 0.08247422680412371
+            }
+          },
+          "brisque_score": 10.14569091796875
+        },
+        "simple": {
+          "prompt": "Felix, Luna, particularly, underground, contentedly, strawberry, collecting, migratory, fluttered, promising, watercolor whimsy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_757137c94f1b4c7f9ef2df618cccabb3.png",
+          "clip_score": 0.23684722185134888,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5268161296844482
+            ],
+            "recall": [
+              0.32721251249313354
+            ],
+            "f1": [
+              0.4036886394023895
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0898876404494382,
+              "f1": 0.16494845360824742
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.056179775280898875,
+              "f1": 0.10309278350515465
+            }
+          },
+          "brisque_score": 9.71600341796875
+        }
+      }
+    },
+    {
+      "id": 5,
+      "text": "As Felix drifted off to sleep, his dreams were filled with visions of lush leaves, sparkling dew, and the gentle hum of bees. His tiny body felt grateful for the adventures he'd shared with his friends, and his heart swelled with joy. When the sun rose once more, Felix stretched his furry limbs and set off into the garden, ready to begin a new day filled with wonder, discovery, and delicious leaves.",
+      "results": {
+        "yake": {
+          "prompt": "Felix, Luna, Felix, sleep, sparkling, dew, bees, leaves, filled, drifted, watercolor whimsy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_1d99f565e2b74c7896d05c3ef2919849.png",
+          "clip_score": 0.2727396488189697,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5545982718467712
+            ],
+            "recall": [
+              0.34413814544677734
+            ],
+            "f1": [
+              0.42472612857818604
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.1095890410958904,
+              "f1": 0.19753086419753085
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.013888888888888888,
+              "f1": 0.02531645569620253
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.0821917808219178,
+              "f1": 0.14814814814814814
+            }
+          },
+          "brisque_score": 10.29022216796875
+        },
+        "keybert": {
+          "prompt": "Felix, Luna, felix, dreams, leaves, bees, sun, visions, sleep, drifted, watercolor whimsy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_f125254d5ca84c0c9406f0247ddd08d3.png",
+          "clip_score": 0.2496625781059265,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.49255675077438354
+            ],
+            "recall": [
+              0.3452456295490265
+            ],
+            "f1": [
+              0.40595027804374695
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.1095890410958904,
+              "f1": 0.19753086419753085
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.0684931506849315,
+              "f1": 0.12345679012345677
+            }
+          },
+          "brisque_score": 4.96160888671875
+        },
+        "simple": {
+          "prompt": "Felix, Luna, adventures, sparkling, stretched, discovery, delicious, grateful, drifted, visions, watercolor whimsy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_3356302d25c044a180bcab40b0d6a59b.png",
+          "clip_score": 0.23979294300079346,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5024218559265137
+            ],
+            "recall": [
+              0.34127670526504517
+            ],
+            "f1": [
+              0.4064600467681885
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.1095890410958904,
+              "f1": 0.19753086419753085
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.0547945205479452,
+              "f1": 0.09876543209876543
+            }
+          },
+          "brisque_score": 11.07733154296875
+        }
+      }
+    }
+  ]
+}

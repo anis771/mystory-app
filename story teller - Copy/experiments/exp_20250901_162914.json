@@ -1,0 +1,583 @@
+{
+  "id": "exp_20250901_162914",
+  "title": "The Adventures of The Ant And",
+  "context": {
+    "characters": {
+      "Aurora": "a tiny ant who spends her days gathering crumbs and seeds for the winter stores",
+      "Glimmer": "a carefree grasshopper who strums a tiny lyre and sings sweet melodies"
+    },
+    "settings": [
+      "Goldenacres",
+      "the meadow of Goldenacres",
+      "a nearby patch of tall grass"
+    ],
+    "art_style": "watercolor fantasy",
+    "mood": "whimsical",
+    "theme": "moral fantasy",
+    "setting_type": "magical",
+    "color_palette": "warm earth tones, golden light",
+    "key_elements": [
+      "crumbs and seeds",
+      "dried fruits and nuts",
+      "tiny lyre"
+    ]
+  },
+  "consistency": 0.34365079365079365,
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "In the lush meadow of Goldenacres, where sunbeams danced and wildflowers swayed to the rhythm of buzzing bees, a tiny ant named Aurora lived in harmony with nature. Her home was a sprawling underground colony, where she spent her days gathering crumbs and seeds for the winter stores.",
+      "results": {
+        "yake": {
+          "prompt": "Aurora, Glimmer, Goldenacres, Aurora, bees, nature, lush, meadow, sunbeams, danced, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_c0ab192269394103b3be5456769d5bb1.png",
+          "clip_score": 0.29028770327568054,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6297181248664856
+            ],
+            "recall": [
+              0.4227166473865509
+            ],
+            "f1": [
+              0.5058600306510925
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.16666666666666666,
+              "f1": 0.2857142857142857
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.0425531914893617,
+              "f1": 0.07407407407407407
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.08333333333333333,
+              "f1": 0.14285714285714285
+            }
+          },
+          "brisque_score": 15.30389404296875
+        },
+        "keybert": {
+          "prompt": "Aurora, Glimmer, aurora, bees, meadow, ant, wildflowers, sunbeams, colony, nature, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_c5e06f35294c427e94ac44cdae79a6c3.png",
+          "clip_score": 0.2939906716346741,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5697702169418335
+            ],
+            "recall": [
+              0.41538453102111816
+            ],
+            "f1": [
+              0.4804803133010864
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.16666666666666666,
+              "f1": 0.2857142857142857
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.0625,
+              "f1": 0.10714285714285714
+            }
+          },
+          "brisque_score": 9.17401123046875
+        },
+        "simple": {
+          "prompt": "Aurora, Glimmer, goldenacres, wildflowers, underground, sprawling, gathering, sunbeams, buzzing, harmony, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_2449df59b5e948b5a3541b56859f4f0e.png",
+          "clip_score": 0.2689300775527954,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6425185799598694
+            ],
+            "recall": [
+              0.4612587094306946
+            ],
+            "f1": [
+              0.537005603313446
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.16666666666666666,
+              "f1": 0.2857142857142857
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.08333333333333333,
+              "f1": 0.14285714285714285
+            }
+          },
+          "brisque_score": 8.84393310546875
+        }
+      }
+    },
+    {
+      "id": 2,
+      "text": "As the seasons changed, and summer's warmth gave way to autumn's chill, Aurora's thoughts turned to preparation. She scurried about, stocking away dried fruits and nuts, her antennae twitching with excitement. Meanwhile, in a nearby patch of tall grass, a carefree grasshopper named Glimmer spent his days lounging in the warm sun, strumming a tiny lyre and singing sweet melodies. His song was so enchanting that even the flowers leaned in to listen, their petals swaying in time.",
+      "results": {
+        "yake": {
+          "prompt": "Aurora, Glimmer, Aurora, changed, chill, preparation, seasons, summer, warmth, gave, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_199d0cf68a1949fa9b4e79360aaa6d5f.png",
+          "clip_score": 0.2547365427017212,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5256062746047974
+            ],
+            "recall": [
+              0.2985686659812927
+            ],
+            "f1": [
+              0.38081616163253784
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09876543209876543,
+              "f1": 0.1797752808988764
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.0125,
+              "f1": 0.022988505747126436
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.04938271604938271,
+              "f1": 0.0898876404494382
+            }
+          },
+          "brisque_score": 13.67059326171875
+        },
+        "keybert": {
+          "prompt": "Aurora, Glimmer, grasshopper, aurora, autumn, melodies, grass, flowers, sun, glimmer, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_95a75d63497e48a59f3e03f552d48a61.png",
+          "clip_score": 0.30204734206199646,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4744442105293274
+            ],
+            "recall": [
+              0.33170604705810547
+            ],
+            "f1": [
+              0.39043840765953064
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09876543209876543,
+              "f1": 0.1797752808988764
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.037037037037037035,
+              "f1": 0.06741573033707865
+            }
+          },
+          "brisque_score": 14.55926513671875
+        },
+        "simple": {
+          "prompt": "Aurora, Glimmer, preparation, grasshopper, excitement, enchanting, twitching, meanwhile, strumming, thoughts, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_ede6d3aa6e0d4491926b9e9f16a71e52.png",
+          "clip_score": 0.2752404510974884,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.49207252264022827
+            ],
+            "recall": [
+              0.3473915755748749
+            ],
+            "f1": [
+              0.40726423263549805
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09876543209876543,
+              "f1": 0.1797752808988764
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.04938271604938271,
+              "f1": 0.0898876404494382
+            }
+          },
+          "brisque_score": 7.05487060546875
+        }
+      }
+    },
+    {
+      "id": 3,
+      "text": "One day, as Aurora busied herself with her winter preparations, Glimmer strolled into the meadow, his eyes shining like polished gemstones. He spotted Aurora and, intrigued by her industrious nature, decided to introduce himself. The two creatures struck up a conversation, their voices whispering secrets in the gentle breeze. As they spoke, the flowers bloomed brighter, as if sensing the warmth of their camaraderie.",
+      "results": {
+        "yake": {
+          "prompt": "Aurora, Glimmer, Glimmer, Aurora, day, preparations, meadow, gemstones, busied, winter, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_8d877e538c7a4ca2a484635b2bdf3b4a.png",
+          "clip_score": 0.3023951053619385,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5245832204818726
+            ],
+            "recall": [
+              0.348131000995636
+            ],
+            "f1": [
+              0.41851887106895447
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.125,
+              "f1": 0.2222222222222222
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.0625,
+              "f1": 0.1111111111111111
+            }
+          },
+          "brisque_score": 8.37762451171875
+        },
+        "keybert": {
+          "prompt": "Aurora, Glimmer, aurora, flowers, bloomed, meadow, winter, nature, shining, glimmer, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_c9c5a2bba5c84f61b0a5cac320a14651.png",
+          "clip_score": 0.29701298475265503,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4715754985809326
+            ],
+            "recall": [
+              0.32586508989334106
+            ],
+            "f1": [
+              0.3854080140590668
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.125,
+              "f1": 0.2222222222222222
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.015873015873015872,
+              "f1": 0.028571428571428567
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.046875,
+              "f1": 0.08333333333333333
+            }
+          },
+          "brisque_score": 13.09197998046875
+        },
+        "simple": {
+          "prompt": "Aurora, Glimmer, preparations, conversation, industrious, camaraderie, whispering, gemstones, intrigued, introduce, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_a9801e8179d240ed84e3a973e484d92b.png",
+          "clip_score": 0.28861168026924133,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5135655403137207
+            ],
+            "recall": [
+              0.3623431921005249
+            ],
+            "f1": [
+              0.4249003827571869
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.125,
+              "f1": 0.2222222222222222
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.0625,
+              "f1": 0.1111111111111111
+            }
+          },
+          "brisque_score": 11.43963623046875
+        }
+      }
+    },
+    {
+      "id": 4,
+      "text": "But as winter's icy grip tightened its hold on Goldenacres, Glimmer found himself facing an unexpected predicament. His carefree days were over, and the cold had extinguished his musical talents. He, who had never known scarcity, now stood before a barren landscape, his belly growling with hunger. Aurora, meanwhile, was prepared for the season's arrival. She welcomed Glimmer into her cozy underground home, where she shared her stores of food and warmth.",
+      "results": {
+        "yake": {
+          "prompt": "Aurora, Glimmer, Goldenacres, predicament, Glimmer, winter, icy, grip, tightened, hold, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_cd2eecf0e2854d1bb7dfbcb0ef79b0ae.png",
+          "clip_score": 0.27168917655944824,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5562172532081604
+            ],
+            "recall": [
+              0.3372703790664673
+            ],
+            "f1": [
+              0.41991764307022095
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.10810810810810811,
+              "f1": 0.1951219512195122
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.0273972602739726,
+              "f1": 0.05
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.06756756756756757,
+              "f1": 0.12195121951219512
+            }
+          },
+          "brisque_score": 10.67059326171875
+        },
+        "keybert": {
+          "prompt": "Aurora, Glimmer, glimmer, winter, aurora, cold, warmth, icy, hunger, goldenacres, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_5928c10cb1994f3181a18d20e8d06b29.png",
+          "clip_score": 0.30266210436820984,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4842676520347595
+            ],
+            "recall": [
+              0.32201918959617615
+            ],
+            "f1": [
+              0.38681888580322266
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.10810810810810811,
+              "f1": 0.1951219512195122
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.04054054054054054,
+              "f1": 0.07317073170731707
+            }
+          },
+          "brisque_score": 10.74627685546875
+        },
+        "simple": {
+          "prompt": "Aurora, Glimmer, extinguished, goldenacres, predicament, underground, unexpected, tightened, landscape, meanwhile, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_dd77c4a46198493da9e6025ed0e18b99.png",
+          "clip_score": 0.2733892500400543,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.49518898129463196
+            ],
+            "recall": [
+              0.31612783670425415
+            ],
+            "f1": [
+              0.3858985900878906
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.10810810810810811,
+              "f1": 0.1951219512195122
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.05405405405405406,
+              "f1": 0.0975609756097561
+            }
+          },
+          "brisque_score": 11.37957763671875
+        }
+      }
+    },
+    {
+      "id": 5,
+      "text": "As the snowflakes gently fell outside, the unlikely friends sat by the fire, their bellies full and their hearts warmed by the glow of friendship. Aurora told stories of the meadow's secrets and magic, while Glimmer regaled her with tales of his musical escapades. In that moment, they realized that preparation and hard work were not mutually exclusive with joy and creativity. As the seasons cycled on, the ant and the grasshopper became inseparable companions, their bond strengthened by the lessons learned in the winter's quiet darkness.",
+      "results": {
+        "yake": {
+          "prompt": "Aurora, Glimmer, fire, friendship, snowflakes, gently, fell, friends, sat, bellies, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_168e97be8aca4508aa145d49eede1214.png",
+          "clip_score": 0.2827903628349304,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6086779832839966
+            ],
+            "recall": [
+              0.3521190881729126
+            ],
+            "f1": [
+              0.4461444616317749
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0898876404494382,
+              "f1": 0.16494845360824742
+            },
+            "rouge2": {
+              "precision": 0.42857142857142855,
+              "recall": 0.03409090909090909,
+              "f1": 0.0631578947368421
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.06741573033707865,
+              "f1": 0.12371134020618557
+            }
+          },
+          "brisque_score": 5.78094482421875
+        },
+        "keybert": {
+          "prompt": "Aurora, Glimmer, snowflakes, aurora, winter, grasshopper, ant, meadow, seasons, darkness, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_f4c90a15825248cc8813bedea54a69e1.png",
+          "clip_score": 0.3069150149822235,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5856654644012451
+            ],
+            "recall": [
+              0.3646455705165863
+            ],
+            "f1": [
+              0.4494535028934479
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0898876404494382,
+              "f1": 0.16494845360824742
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.056179775280898875,
+              "f1": 0.10309278350515465
+            }
+          },
+          "brisque_score": 6.66522216796875
+        },
+        "simple": {
+          "prompt": "Aurora, Glimmer, strengthened, preparation, grasshopper, inseparable, snowflakes, friendship, creativity, companions, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_899c0b715bdc482c8cf98516f14843e5.png",
+          "clip_score": 0.27763378620147705,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5271576642990112
+            ],
+            "recall": [
+              0.36027687788009644
+            ],
+            "f1": [
+              0.4280264377593994
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0898876404494382,
+              "f1": 0.16494845360824742
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.0449438202247191,
+              "f1": 0.08247422680412371
+            }
+          },
+          "brisque_score": 7.71795654296875
+        }
+      }
+    }
+  ]
+}

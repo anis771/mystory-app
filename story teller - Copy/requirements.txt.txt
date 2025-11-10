@@ -1,0 +1,14 @@
+Flask
+gunicorn
+flask-cors
+requests
+timeout-decorator
+werkzeug
+keybert
+websocket-client
+nltk
+numpy
+Pillow
+scipy
+scikit-learn
+yake

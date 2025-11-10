@@ -1,0 +1,8 @@
+,paragraph_id,clip_score,clip_score,bert_f1,bert_f1,brisque_score,brisque_score
+,count,mean,std,mean,std,mean,std
+story_title,,,,,,,
+The Adventures of The Lion And,15,0.2617,0.0251,0.4077,0.0369,3.5391,4.0089
+The Tale of Goodnight Moon,15,0.2837,0.018,0.4171,0.0305,10.4205,3.8094
+The Tale of Snow White,15,0.2835,0.0235,0.4411,0.0443,11.4132,3.7148
+The Tale of The Giving Tree,15,0.2714,0.0202,0.3836,0.0271,8.3659,2.6277
+The Tale of The Three Little Pigs,15,0.2827,0.0229,0.4205,0.0404,10.6653,2.8572

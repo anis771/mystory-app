@@ -1,0 +1,584 @@
+{
+  "id": "exp_20250901_150556",
+  "title": "The Adventures of The Princess And",
+  "context": {
+    "characters": {
+      "Sophia": "Princess of Serenaria, kind soul with a heart full of compassion and a smile that could light up the darkest cavern",
+      "Henry": "Prince of Valtoria, dashing young man with piercing blue eyes and a charming smile",
+      "Arin": "King of Serenaria, Sophia's father",
+      "Lyra": "Queen of Serenaria, Sophia's mother"
+    },
+    "settings": [
+      "Serenaria",
+      "Valtoria"
+    ],
+    "art_style": "watercolor fantasy",
+    "mood": "whimsical",
+    "theme": "fantasy",
+    "setting_type": "medieval",
+    "color_palette": "soft pastels, creamy whites, and gentle greens",
+    "key_elements": [
+      "moonflowers",
+      "stars",
+      "pea"
+    ]
+  },
+  "consistency": 0.2071078431372549,
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "In the enchanted realm of Azura, where moonflowers bloomed in every color of the rainbow and stars twinkled like diamonds in the sky, Princess Sophia of Serenaria dwelled within the ancient castle walls. Her golden locks cascaded down her back like a waterfall of sunshine, and her eyes shone bright as the morning dew on a bed of emeralds. She was a kind soul, with a heart full of compassion and a smile that could light up the darkest cavern.",
+      "results": {
+        "yake": {
+          "prompt": "Sophia, Henry, Azura, Princess, Sophia, Serenaria, sky, walls, enchanted, realm, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_f26c7bf2fb254c1580ce60fb7726e10c.png",
+          "clip_score": 0.2943968176841736,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.6753382682800293
+            ],
+            "recall": [
+              0.38121694326400757
+            ],
+            "f1": [
+              0.48733919858932495
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.1,
+              "f1": 0.18181818181818182
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.02531645569620253,
+              "f1": 0.046511627906976744
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.0625,
+              "f1": 0.11363636363636363
+            }
+          },
+          "brisque_score": 6.71746826171875
+        },
+        "keybert": {
+          "prompt": "Sophia, Henry, serenaria, sophia, princess, enchanted, moonflowers, bloomed, azura, emeralds, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_5f951664fa6e4bcc93e69f73ef5768cb.png",
+          "clip_score": 0.29509472846984863,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.5781636238098145
+            ],
+            "recall": [
+              0.4001409411430359
+            ],
+            "f1": [
+              0.4729548394680023
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.1,
+              "f1": 0.18181818181818182
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.012658227848101266,
+              "f1": 0.023255813953488372
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.05,
+              "f1": 0.09090909090909091
+            }
+          },
+          "brisque_score": 12.05096435546875
+        },
+        "simple": {
+          "prompt": "Sophia, Henry, moonflowers, compassion, enchanted, serenaria, waterfall, twinkled, diamonds, princess, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_f9de45fdebfa403199b618a78023f649.png",
+          "clip_score": 0.2864196300506592,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.6012234091758728
+            ],
+            "recall": [
+              0.4165191650390625
+            ],
+            "f1": [
+              0.49211081862449646
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.1,
+              "f1": 0.18181818181818182
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.05,
+              "f1": 0.09090909090909091
+            }
+          },
+          "brisque_score": 10.58465576171875
+        }
+      }
+    },
+    {
+      "id": 2,
+      "text": "One fateful evening, as the sun dipped into the horizon and painted the sky with hues of crimson and gold, Sophia's parents, King Arin and Queen Lyra, announced their plan to find her a suitable suitor. The royal court was abuzz with excitement as suitors from far and wide arrived at the castle gates, each hoping to win the princess's hand in marriage. Among them was Prince Henry of Valtoria, a dashing young man with piercing blue eyes and a charming smile. Sophia's heart skipped a beat as she caught his gaze across the grand hall.",
+      "results": {
+        "yake": {
+          "prompt": "Sophia, Henry, King, Lyra, Arin, Queen, Sophia, evening, gold, parents, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_d03946c3d49c41ebb0923282bdbde234.png",
+          "clip_score": 0.28203028440475464,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.5480499267578125
+            ],
+            "recall": [
+              0.2977924048900604
+            ],
+            "f1": [
+              0.3858995735645294
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08080808080808081,
+              "f1": 0.14953271028037382
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.04040404040404041,
+              "f1": 0.07476635514018691
+            }
+          },
+          "brisque_score": 7.21649169921875
+        },
+        "keybert": {
+          "prompt": "Sophia, Henry, sophia, princess, prince, fateful, castle, valtoria, lyra, queen, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_a6dc2a439ba2415181077336d9d003a3.png",
+          "clip_score": 0.33261638879776,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.5237874984741211
+            ],
+            "recall": [
+              0.3213447332382202
+            ],
+            "f1": [
+              0.3983195722103119
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08080808080808081,
+              "f1": 0.14953271028037382
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.04040404040404041,
+              "f1": 0.07476635514018691
+            }
+          },
+          "brisque_score": 11.37811279296875
+        },
+        "simple": {
+          "prompt": "Sophia, Henry, excitement, announced, suitable, princess, marriage, valtoria, piercing, charming, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_be0a65c576cc4eafb5bdbaaafeba481c.png",
+          "clip_score": 0.2771267294883728,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.5141999125480652
+            ],
+            "recall": [
+              0.3333696126937866
+            ],
+            "f1": [
+              0.4044945240020752
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08080808080808081,
+              "f1": 0.14953271028037382
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.875,
+              "recall": 0.0707070707070707,
+              "f1": 0.1308411214953271
+            }
+          },
+          "brisque_score": 19.14764404296875
+        }
+      }
+    },
+    {
+      "id": 3,
+      "text": "The king and queen decided that the perfect test of true love would be to place a single pea beneath a stack of mattresses and blankets in Sophia's bedchamber. If Prince Henry was indeed the right match for their daughter, he would sense her discomfort and awaken to her distress. And so, under the light of the full moon, Sophia lay down upon the pile of bedding, feeling the gentle rustle of leaves in the night breeze as she drifted off to sleep.",
+      "results": {
+        "yake": {
+          "prompt": "Sophia, Henry, Sophia, bedchamber, king, queen, decided, perfect, test, true, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_4d988ff2948743ac9b8b28b1c429c095.png",
+          "clip_score": 0.26715973019599915,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.5490226745605469
+            ],
+            "recall": [
+              0.34114962816238403
+            ],
+            "f1": [
+              0.4208149015903473
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09523809523809523,
+              "f1": 0.17391304347826084
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.024096385542168676,
+              "f1": 0.044444444444444446
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.07142857142857142,
+              "f1": 0.13043478260869565
+            }
+          },
+          "brisque_score": 10.50799560546875
+        },
+        "keybert": {
+          "prompt": "Sophia, Henry, sophia, queen, prince, mattresses, bedding, henry, moon, night, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_d33bcf24478546a29054d1131395666c.png",
+          "clip_score": 0.3140568733215332,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.46904677152633667
+            ],
+            "recall": [
+              0.3132210969924927
+            ],
+            "f1": [
+              0.37561389803886414
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09523809523809523,
+              "f1": 0.17391304347826084
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.05952380952380952,
+              "f1": 0.10869565217391304
+            }
+          },
+          "brisque_score": 7.71258544921875
+        },
+        "simple": {
+          "prompt": "Sophia, Henry, mattresses, bedchamber, discomfort, blankets, daughter, distress, decided, perfect, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_7bcd0af808bc4a27a1313396893d62d5.png",
+          "clip_score": 0.2532407343387604,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.5224421620368958
+            ],
+            "recall": [
+              0.3240280747413635
+            ],
+            "f1": [
+              0.3999808132648468
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09523809523809523,
+              "f1": 0.17391304347826084
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.047619047619047616,
+              "f1": 0.08695652173913042
+            }
+          },
+          "brisque_score": 20.22283935546875
+        }
+      }
+    },
+    {
+      "id": 4,
+      "text": "In the dead of night, Prince Henry crept into Sophia's bedchamber, his eyes scanning the room like a thief in search of treasure. He approached the mattress with caution, his heart pounding in his chest like a drumbeat in a forest glade. As he lifted the layers of bedding, his fingers brushed against something small and hard – the pea. A faint smile played on his lips as he realized the princess's discomfort and gently roused her from her slumber.",
+      "results": {
+        "yake": {
+          "prompt": "Sophia, Henry, Prince, Henry, Sophia, night, bedchamber, treasure, dead, crept, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_25e0521f28da407fb085dd6487ae35d0.png",
+          "clip_score": 0.28473109006881714,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.5513572692871094
+            ],
+            "recall": [
+              0.34770631790161133
+            ],
+            "f1": [
+              0.42646685242652893
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09876543209876543,
+              "f1": 0.1797752808988764
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.0125,
+              "f1": 0.022988505747126436
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.06172839506172839,
+              "f1": 0.11235955056179774
+            }
+          },
+          "brisque_score": 0.22479248046875
+        },
+        "keybert": {
+          "prompt": "Sophia, Henry, sophia, prince, princess, night, bedding, henry, mattress, slumber, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_9d060e0012614f7c8ae9758077bda202.png",
+          "clip_score": 0.30207645893096924,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.4933053255081177
+            ],
+            "recall": [
+              0.323036253452301
+            ],
+            "f1": [
+              0.3904137909412384
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09876543209876543,
+              "f1": 0.1797752808988764
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.04938271604938271,
+              "f1": 0.0898876404494382
+            }
+          },
+          "brisque_score": 9.54119873046875
+        },
+        "simple": {
+          "prompt": "Sophia, Henry, bedchamber, approached, discomfort, something, scanning, treasure, mattress, pounding, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_7b36e1a2099f4baeabb190da9e29cca5.png",
+          "clip_score": 0.24447883665561676,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.514361560344696
+            ],
+            "recall": [
+              0.3398793637752533
+            ],
+            "f1": [
+              0.40930113196372986
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09876543209876543,
+              "f1": 0.1797752808988764
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.06172839506172839,
+              "f1": 0.11235955056179774
+            }
+          },
+          "brisque_score": 6.98162841796875
+        }
+      }
+    },
+    {
+      "id": 5,
+      "text": "Sophia's eyes fluttered open to find Prince Henry gazing at her with a look of concern etched upon his face. She sensed his sincerity and knew that their bond was forged in the fires of true love. As they sat together on the edge of the bed, the first light of dawn crept into the room, casting a warm glow over the pair. With the pea still clutched in Prince Henry's hand, Sophia whispered her acceptance of his proposal, and the two of them sealed their love with a tender kiss under the watchful eyes of the stars.",
+      "results": {
+        "yake": {
+          "prompt": "Sophia, Henry, Prince, Henry, Sophia, face, fluttered, open, find, gazing, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_203dd2f6edcb4339a78a10fc1836842d.png",
+          "clip_score": 0.2667769193649292,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.5806318521499634
+            ],
+            "recall": [
+              0.3393077254295349
+            ],
+            "f1": [
+              0.42831698060035706
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08,
+              "f1": 0.14814814814814814
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.020202020202020204,
+              "f1": 0.03773584905660377
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.05,
+              "f1": 0.09259259259259259
+            }
+          },
+          "brisque_score": 12.27410888671875
+        },
+        "keybert": {
+          "prompt": "Sophia, Henry, sophia, gazing, love, whispered, kiss, henry, prince, eyes, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_9ab12e8a328e488a967a4f4d98849f3f.png",
+          "clip_score": 0.27755263447761536,
+          "bias": true,
+          "bert_score": {
+            "precision": [
+              0.5129284858703613
+            ],
+            "recall": [
+              0.3243948817253113
+            ],
+            "f1": [
+              0.39743635058403015
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08,
+              "f1": 0.14814814814814814
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.06,
+              "f1": 0.1111111111111111
+            }
+          },
+          "brisque_score": 10.35906982421875
+        },
+        "simple": {
+          "prompt": "Sophia, Henry, acceptance, fluttered, sincerity, whispered, together, clutched, proposal, watchful, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_adc0308b4a054409adcd1024b75bf4f6.png",
+          "clip_score": 0.2533160448074341,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4716665744781494
+            ],
+            "recall": [
+              0.314714252948761
+            ],
+            "f1": [
+              0.37752750515937805
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08,
+              "f1": 0.14814814814814814
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.06,
+              "f1": 0.1111111111111111
+            }
+          },
+          "brisque_score": 10.21160888671875
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "id": "exp_20251020_161226",
+  "title": "The Tale of Alibaba And 40 Theives",
+  "context": {
+    "characters": {
+      "Alibaba": "cunning and charismatic leader",
+      "Zorro": "agile acrobat with eyes like shining stars",
+      "Jefe": "burly blacksmith with arms as strong as steel",
+      "Lupo": "cunning fox-faced thief with fingers quicker than a whip"
+    },
+    "settings": [
+      "Maravilla",
+      "windswept hill"
+    ],
+    "art_style": "digital painting with intricate textures and patterns inspired by Middle Eastern architecture and textiles",
+    "mood": "whimsical with a hint of mischief and adventure",
+    "theme": "fantasy",
+    "setting_type": "medieval",
+    "color_palette": "warm golden tones, rich blues, and deep reds, evoking the opulence and mystery of ancient trade routes",
+    "key_elements": [
+      "Golden Chalice",
+      "temple of the Moon Goddess"
+    ]
+  },
+  "consistency": 0.35625,
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "In the land of Azalia, where sunsets painted the sky with hues of sapphire and amethyst, the legend of Alibaba and his forty thieves had become the stuff of whispers and wonder. It was said that Alibaba, the cunning and charismatic leader, could conjure wealth and riches from thin air, and that his band of merry men were the most skilled rogues in all the realm.\n\nAs the moon rose high in the night sky, Alibaba stood atop a windswept hill, gazing out upon the twinkling city of Maravilla. His piercing green eyes sparkled with mischief as he contemplated the next great heist. The air was alive with the soft chime of temple bells and the distant hum of market vendors calling out their wares. A gentle breeze carried the sweet scent of jasmine and lemons, transporting Alibaba to a world of endless possibility.",
+      "results": {
+        "yake": {
+          "prompt": "Alibaba, Zorro, Alibaba, Azalia, amethyst, sky, land, sunsets, painted, hues, digital painting with intricate textures and patterns inspired by Middle Eastern architecture and textiles, scene 1, whimsical with a hint of mischief and adventure atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_9231738fae0a4b5a8b161ac0614f04b8.png",
+          "clip_score": 0.2897322177886963,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5709434747695923
+            ],
+            "recall": [
+              0.35166996717453003
+            ],
+            "f1": [
+              0.43524983525276184
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.05555555555555555,
+              "f1": 0.10526315789473684
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.006993006993006993,
+              "f1": 0.013333333333333332
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.027777777777777776,
+              "f1": 0.05263157894736842
+            }
+          },
+          "sentiment": {
+            "neg": 0.036,
+            "neu": 0.822,
+            "pos": 0.141,
+            "compound": 0.9509
+          },
+          "brisque_score": 19.18475341796875
+        },
+        "keybert": {
+          "prompt": "Alibaba, Zorro, azalia, alibaba, sparkled, sky, sunsets, maravilla, whispers, thieves, digital painting with intricate textures and patterns inspired by Middle Eastern architecture and textiles, scene 1, whimsical with a hint of mischief and adventure atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_4d7776a79adb4f83839194ba7751b66a.png",
+          "clip_score": 0.2868421673774719,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5105738639831543
+            ],
+            "recall": [
+              0.3301885724067688
+            ],
+            "f1": [
+              0.40103042125701904
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.05555555555555555,
+              "f1": 0.10526315789473684
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.027777777777777776,
+              "f1": 0.05263157894736842
+            }
+          },
+          "sentiment": {
+            "neg": 0.036,
+            "neu": 0.822,
+            "pos": 0.141,
+            "compound": 0.9509
+          },
+          "brisque_score": 12.46771240234375
+        },
+        "simple": {
+          "prompt": "Alibaba, Zorro, contemplated, transporting, charismatic, possibility, windswept, twinkling, maravilla, sapphire, digital painting with intricate textures and patterns inspired by Middle Eastern architecture and textiles, scene 1, whimsical with a hint of mischief and adventure atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_292b967d3c4a4be0b475c588ff72765c.png",
+          "clip_score": 0.26791971921920776,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5612818002700806
+            ],
+            "recall": [
+              0.3419642746448517
+            ],
+            "f1": [
+              0.4249967634677887
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.05555555555555555,
+              "f1": 0.10526315789473684
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.027777777777777776,
+              "f1": 0.05263157894736842
+            }
+          },
+          "sentiment": {
+            "neg": 0.036,
+            "neu": 0.822,
+            "pos": 0.141,
+            "compound": 0.9509
+          },
+          "brisque_score": 15.02435302734375
+        }
+      }
+    },
+    {
+      "id": 2,
+      "text": "Within the city's winding alleys and ornate courtyards, Alibaba's forty thieves gathered, each one more intriguing than the last. There was Zorro, the agile acrobat with eyes like shining stars; Jefe, the burly blacksmith with arms as strong as steel; and Lupo, the cunning fox-faced thief with fingers quicker than a whip. Each had their own unique skills and quirks, but together they formed an unstoppable force.\n\nAs Alibaba revealed his plan to steal the fabled Golden Chalice from the temple of the Moon Goddess, a collective gleam sparkled in the eyes of his thieves. They set about preparing for the heist, donning masks of silver and gold, their faces hidden behind veils of mystery. The city's residents, oblivious to the impending caper, went about their evening routines, unaware that fate was about to be rewritten.",
+      "results": {
+        "yake": {
+          "prompt": "Alibaba, Zorro, Alibaba, courtyards, gathered, winding, alleys, ornate, forty, intriguing, digital painting with intricate textures and patterns inspired by Middle Eastern architecture and textiles, scene 2, whimsical with a hint of mischief and adventure atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_e1ecf40d10fc49afaf0e14a1f2d68abc.png",
+          "clip_score": 0.31363606452941895,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5710408687591553
+            ],
+            "recall": [
+              0.33489519357681274
+            ],
+            "f1": [
+              0.4221905767917633
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.05714285714285714,
+              "f1": 0.1081081081081081
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.007194244604316547,
+              "f1": 0.0136986301369863
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.03571428571428571,
+              "f1": 0.06756756756756756
+            }
+          },
+          "sentiment": {
+            "neg": 0.119,
+            "neu": 0.855,
+            "pos": 0.026,
+            "compound": -0.9274
+          },
+          "brisque_score": 2.33526611328125
+        },
+        "keybert": {
+          "prompt": "Alibaba, Zorro, thief, zorro, thieves, chalice, cunning, steal, golden, gold, digital painting with intricate textures and patterns inspired by Middle Eastern architecture and textiles, scene 2, whimsical with a hint of mischief and adventure atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_ab2d9a0bca9c47f2847f8540fdec6740.png",
+          "clip_score": 0.25922924280166626,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5736342668533325
+            ],
+            "recall": [
+              0.33236268162727356
+            ],
+            "f1": [
+              0.4208725690841675
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.05714285714285714,
+              "f1": 0.1081081081081081
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.03571428571428571,
+              "f1": 0.06756756756756756
+            }
+          },
+          "sentiment": {
+            "neg": 0.119,
+            "neu": 0.855,
+            "pos": 0.026,
+            "compound": -0.9274
+          },
+          "brisque_score": 15.80755615234375
+        },
+        "simple": {
+          "prompt": "Alibaba, Zorro, unstoppable, courtyards, intriguing, blacksmith, collective, fox-faced, preparing, residents, digital painting with intricate textures and patterns inspired by Middle Eastern architecture and textiles, scene 2, whimsical with a hint of mischief and adventure atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_25ef26c4e99e44e18ba6580f7f8cf87a.png",
+          "clip_score": 0.2775806188583374,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6217789649963379
+            ],
+            "recall": [
+              0.3559325933456421
+            ],
+            "f1": [
+              0.4527130722999573
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.06428571428571428,
+              "f1": 0.12080536912751677
+            },
+            "rouge2": {
+              "precision": 0.125,
+              "recall": 0.007194244604316547,
+              "f1": 0.013605442176870748
+            },
+            "rougeL": {
+              "precision": 0.7777777777777778,
+              "recall": 0.05,
+              "f1": 0.09395973154362415
+            }
+          },
+          "sentiment": {
+            "neg": 0.119,
+            "neu": 0.855,
+            "pos": 0.026,
+            "compound": -0.9274
+          },
+          "brisque_score": 4.45611572265625
+        }
+      }
+    },
+    {
+      "id": 3,
+      "text": "Under the light of a full moon, Alibaba and his thieves set out on their quest, their footsteps silent as they crept through the temple's ancient walls. Candles flickered like fireflies, casting eerie shadows upon the stone floor. The air grew thick with anticipation as they approached the Golden Chalice, its beauty so radiant it seemed to pulse with an inner light. With a whispered command from Alibaba, the thieves sprang into action, their hands weaving a tapestry of deception and cunning.\n\nAs the night wore on, the temple's sacred relics lay scattered at their feet, and Alibaba held aloft the Golden Chalice, its beauty blinding. The city's residents, now awakened to the commotion, gazed upon the thieves in awe, unsure whether to revere or revile them. For in that moment, Alibaba and his forty thieves stood as gods among mortals, their legend forever etched in the annals of Azalia's history.",
+      "results": {
+        "yake": {
+          "prompt": "Alibaba, Zorro, Alibaba, thieves, Chalice, Golden, moon, quest, walls, light, digital painting with intricate textures and patterns inspired by Middle Eastern architecture and textiles, scene 3, whimsical with a hint of mischief and adventure atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_e6613ee0679546da9f070cf334e4d414.png",
+          "clip_score": 0.26171502470970154,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.48543763160705566
+            ],
+            "recall": [
+              0.2849477529525757
+            ],
+            "f1": [
+              0.35910433530807495
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.05161290322580645,
+              "f1": 0.09815950920245399
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.03225806451612903,
+              "f1": 0.06134969325153374
+            }
+          },
+          "sentiment": {
+            "neg": 0.12,
+            "neu": 0.79,
+            "pos": 0.09,
+            "compound": -0.626
+          },
+          "brisque_score": 8.56683349609375
+        },
+        "keybert": {
+          "prompt": "Alibaba, Zorro, blinding, shadows, azalia, candles, thieves, temple, radiant, golden, digital painting with intricate textures and patterns inspired by Middle Eastern architecture and textiles, scene 3, whimsical with a hint of mischief and adventure atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_f784a370baf64e94ad8394a34dca1872.png",
+          "clip_score": 0.2773735523223877,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4916646480560303
+            ],
+            "recall": [
+              0.2939770817756653
+            ],
+            "f1": [
+              0.3679492175579071
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.05161290322580645,
+              "f1": 0.09815950920245399
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.025806451612903226,
+              "f1": 0.049079754601226995
+            }
+          },
+          "sentiment": {
+            "neg": 0.12,
+            "neu": 0.79,
+            "pos": 0.09,
+            "compound": -0.626
+          },
+          "brisque_score": 8.53143310546875
+        },
+        "simple": {
+          "prompt": "Alibaba, Zorro, anticipation, approached, footsteps, flickered, fireflies, whispered, deception, scattered, digital painting with intricate textures and patterns inspired by Middle Eastern architecture and textiles, scene 3, whimsical with a hint of mischief and adventure atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_f8e6e0d7ed8f4892a48001b81b7c4c96.png",
+          "clip_score": 0.25999152660369873,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5744112133979797
+            ],
+            "recall": [
+              0.32976436614990234
+            ],
+            "f1": [
+              0.4189901649951935
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.05161290322580645,
+              "f1": 0.09815950920245399
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.03870967741935484,
+              "f1": 0.0736196319018405
+            }
+          },
+          "sentiment": {
+            "neg": 0.12,
+            "neu": 0.79,
+            "pos": 0.09,
+            "compound": -0.626
+          },
+          "brisque_score": 14.46295166015625
+        }
+      }
+    }
+  ]
+}

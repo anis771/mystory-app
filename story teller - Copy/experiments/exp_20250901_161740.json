@@ -1,0 +1,584 @@
+{
+  "id": "exp_20250901_161740",
+  "title": "The Adventures of The Lion And",
+  "context": {
+    "characters": {
+      "Kibo": "a majestic lion with a shimmering golden mane and warm eyes",
+      "Mweni": "a tiny mouse with soft gray and brown fur"
+    },
+    "settings": [
+      "Azura",
+      "savannah",
+      "grasslands",
+      "baobab tree"
+    ],
+    "art_style": "watercolor fantasy",
+    "mood": "whimsical",
+    "theme": "fable",
+    "setting_type": "magical",
+    "color_palette": "warm earth tones, golden light",
+    "key_elements": [
+      "sunflowers",
+      "acacia trees",
+      "mane"
+    ]
+  },
+  "consistency": 0.30297619047619045,
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "In the scorching savannah of Azura, where sunflowers bloomed like golden crowns and acacia trees whispered secrets to the wind, a majestic lion named Kibo ruled over the land. His mane shimmered like spun gold in the afternoon light, and his eyes gleamed with a fierce warmth that could melt the coldest of hearts. Kibo's roar echoed across the grasslands, warning all creatures to respect his dominion.",
+      "results": {
+        "yake": {
+          "prompt": "Kibo, Mweni, Azura, wind, land, Kibo, scorching, savannah, sunflowers, bloomed, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_e8e1ac01671a437e8b677b984d5fc18a.png",
+          "clip_score": 0.29429346323013306,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6105946898460388
+            ],
+            "recall": [
+              0.40727561712265015
+            ],
+            "f1": [
+              0.48862871527671814
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.11764705882352941,
+              "f1": 0.21052631578947367
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.029850746268656716,
+              "f1": 0.05405405405405406
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.058823529411764705,
+              "f1": 0.10526315789473684
+            }
+          },
+          "brisque_score": 5.37518310546875
+        },
+        "keybert": {
+          "prompt": "Kibo, Mweni, kibo, lion, majestic, grasslands, roar, savannah, fierce, azura, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_fd3de8d893a147bb8f3784dfef5787d6.png",
+          "clip_score": 0.2862076759338379,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5306377410888672
+            ],
+            "recall": [
+              0.33785906434059143
+            ],
+            "f1": [
+              0.41285306215286255
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.11764705882352941,
+              "f1": 0.21052631578947367
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.25,
+              "recall": 0.029411764705882353,
+              "f1": 0.05263157894736842
+            }
+          },
+          "brisque_score": 0.26922607421875
+        },
+        "simple": {
+          "prompt": "Kibo, Mweni, sunflowers, grasslands, scorching, whispered, shimmered, afternoon, creatures, savannah, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_ab3a4f11b7134d93acb0424c53b9f261.png",
+          "clip_score": 0.2859973907470703,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5699076652526855
+            ],
+            "recall": [
+              0.38251012563705444
+            ],
+            "f1": [
+              0.45777273178100586
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.11764705882352941,
+              "f1": 0.21052631578947367
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.07352941176470588,
+              "f1": 0.13157894736842107
+            }
+          },
+          "brisque_score": 4.91033935546875
+        }
+      }
+    },
+    {
+      "id": 2,
+      "text": "One fateful day, as Kibo lounged beneath the shade of a ancient baobab tree, a tiny mouse named Mweni scurried by, her fur a soft whisper of gray and brown. She had lost her way in the labyrinthine grasses, searching for the succulent roots that would sustain her family's evening meal. As Kibo's paws instinctively reached out to snatch the intruder, Mweni's tiny heart pounded in terror. But instead of devouring her, Kibo merely chuckled at the mouse's audacity and allowed her to scurry free.",
+      "results": {
+        "yake": {
+          "prompt": "Kibo, Mweni, Kibo, Mweni, day, tree, brown, fateful, lounged, beneath, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_21264ef616e5422d995621912528c2f0.png",
+          "clip_score": 0.27650779485702515,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5476633310317993
+            ],
+            "recall": [
+              0.3314095139503479
+            ],
+            "f1": [
+              0.4129369556903839
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0898876404494382,
+              "f1": 0.16494845360824742
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.011363636363636364,
+              "f1": 0.021052631578947368
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.033707865168539325,
+              "f1": 0.061855670103092786
+            }
+          },
+          "brisque_score": 8.59686279296875
+        },
+        "keybert": {
+          "prompt": "Kibo, Mweni, kibo, fateful, scurried, mouse, fur, paws, baobab, scurry, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_25593149f72940d58d8b6d0d314458e1.png",
+          "clip_score": 0.2878774404525757,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5199922323226929
+            ],
+            "recall": [
+              0.2997959852218628
+            ],
+            "f1": [
+              0.38032159209251404
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0898876404494382,
+              "f1": 0.16494845360824742
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.056179775280898875,
+              "f1": 0.10309278350515465
+            }
+          },
+          "brisque_score": 8.30291748046875
+        },
+        "simple": {
+          "prompt": "Kibo, Mweni, instinctively, labyrinthine, searching, succulent, devouring, scurried, intruder, chuckled, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_569ab2b5f8624012a07a18d7325b1d6e.png",
+          "clip_score": 0.24207936227321625,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5352710485458374
+            ],
+            "recall": [
+              0.3209337294101715
+            ],
+            "f1": [
+              0.4012744128704071
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0898876404494382,
+              "f1": 0.16494845360824742
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.056179775280898875,
+              "f1": 0.10309278350515465
+            }
+          },
+          "brisque_score": 2.26580810546875
+        }
+      }
+    },
+    {
+      "id": 3,
+      "text": "Days passed, and Kibo's mighty roar once again shook the savannah. This time, however, it was not a boastful declaration but a desperate cry for help. A raging fire had engulfed his mane, threatening to consume him whole. Panicked, Kibo thrashed about, his paws waving wildly as flames licked at his whiskers. Mweni, now wiser from their previous encounter, watched from a nearby thicket, her beady eyes filled with empathy. She knew she had to act fast.",
+      "results": {
+        "yake": {
+          "prompt": "Kibo, Mweni, Days, passed, savannah, Kibo, mighty, roar, shook, time, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_bc642e3e88d842f58592cd3c403761d0.png",
+          "clip_score": 0.23673823475837708,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5528528094291687
+            ],
+            "recall": [
+              0.3322867155075073
+            ],
+            "f1": [
+              0.41508856415748596
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.10256410256410256,
+              "f1": 0.18604651162790695
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.025974025974025976,
+              "f1": 0.04761904761904762
+            },
+            "rougeL": {
+              "precision": 0.875,
+              "recall": 0.08974358974358974,
+              "f1": 0.1627906976744186
+            }
+          },
+          "brisque_score": -4.44659423828125
+        },
+        "keybert": {
+          "prompt": "Kibo, Mweni, kibo, roar, thrashed, mweni, engulfed, mighty, savannah, flames, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_580d0d4b83ee4a9d98122e090b9b1aa7.png",
+          "clip_score": 0.23813998699188232,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6063193082809448
+            ],
+            "recall": [
+              0.36189785599708557
+            ],
+            "f1": [
+              0.45325714349746704
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.10256410256410256,
+              "f1": 0.18604651162790695
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.05128205128205128,
+              "f1": 0.09302325581395347
+            }
+          },
+          "brisque_score": -1.81475830078125
+        },
+        "simple": {
+          "prompt": "Kibo, Mweni, declaration, threatening, desperate, encounter, savannah, boastful, engulfed, panicked, watercolor fantasy, scene 3, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_5ba5cc1147fd4fd4b45ae1bb45770fb8.png",
+          "clip_score": 0.2227696180343628,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.43932217359542847
+            ],
+            "recall": [
+              0.2954283058643341
+            ],
+            "f1": [
+              0.3532851040363312
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.10256410256410256,
+              "f1": 0.18604651162790695
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.05128205128205128,
+              "f1": 0.09302325581395347
+            }
+          },
+          "brisque_score": 4.25115966796875
+        }
+      }
+    },
+    {
+      "id": 4,
+      "text": "Without hesitation, the resourceful mouse scurried up Kibo's scorched mane, her tiny paws grasping for purchase amidst the fiery tangles. As the lion's flames danced higher, Mweni darted between the burning strands, her small body absorbing the heat and sparks like a living sponge. Slowly but surely, she unraveled the inferno, her minuscule strength remarkable against the raging blaze. Kibo, sensing his rescuer's efforts, relaxed into the gentle touch, allowing Mweni to tame the flames with tender care.",
+      "results": {
+        "yake": {
+          "prompt": "Kibo, Mweni, hesitation, mane, tangles, Mweni, Kibo, resourceful, mouse, scurried, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_c31540ba120e4310a14c4cc78aefbef3.png",
+          "clip_score": 0.2716158628463745,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.515963077545166
+            ],
+            "recall": [
+              0.3324654698371887
+            ],
+            "f1": [
+              0.40437087416648865
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09876543209876543,
+              "f1": 0.1797752808988764
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.025,
+              "f1": 0.04597701149425287
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.06172839506172839,
+              "f1": 0.11235955056179774
+            }
+          },
+          "brisque_score": -1.16925048828125
+        },
+        "keybert": {
+          "prompt": "Kibo, Mweni, kibo, lion, fiery, mouse, burning, flames, paws, mweni, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_51204255686648cc8c8e8bbd5b02499d.png",
+          "clip_score": 0.288404643535614,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4705483913421631
+            ],
+            "recall": [
+              0.29153355956077576
+            ],
+            "f1": [
+              0.3600154519081116
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09876543209876543,
+              "f1": 0.1797752808988764
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.04938271604938271,
+              "f1": 0.0898876404494382
+            }
+          },
+          "brisque_score": 2.16522216796875
+        },
+        "simple": {
+          "prompt": "Kibo, Mweni, resourceful, hesitation, remarkable, absorbing, unraveled, minuscule, scurried, scorched, watercolor fantasy, scene 4, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_ee073a4564624669a82e178b850d8afc.png",
+          "clip_score": 0.2348899245262146,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.48219040036201477
+            ],
+            "recall": [
+              0.31057363748550415
+            ],
+            "f1": [
+              0.37780630588531494
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09876543209876543,
+              "f1": 0.1797752808988764
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.04938271604938271,
+              "f1": 0.0898876404494382
+            }
+          },
+          "brisque_score": 4.74530029296875
+        }
+      }
+    },
+    {
+      "id": 5,
+      "text": "As the fire finally died down, leaving only smoldering embers, Kibo looked upon Mweni with newfound gratitude. He realized that even the smallest of creatures could possess great courage and cunning. In a surprising turn, the mighty lion bent low, allowing Mweni to climb onto his broad shoulder. Together, they strode across the savannah, their bond forged in the fiery depths of Kibo's mane. From that day forward, the lion and the mouse roamed Azura side by side, an unlikely duo whose friendship would spread throughout the land like a whispered secret.",
+      "results": {
+        "yake": {
+          "prompt": "Kibo, Mweni, Mweni, Kibo, leaving, embers, gratitude, fire, finally, died, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_215856b0126f4c2f896958942eb4f086.png",
+          "clip_score": 0.25581902265548706,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5773589611053467
+            ],
+            "recall": [
+              0.33037877082824707
+            ],
+            "f1": [
+              0.42026928067207336
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08602150537634409,
+              "f1": 0.15841584158415845
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.021739130434782608,
+              "f1": 0.04040404040404041
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.03225806451612903,
+              "f1": 0.05940594059405941
+            }
+          },
+          "brisque_score": 8.70233154296875
+        },
+        "keybert": {
+          "prompt": "Kibo, Mweni, lion, fiery, kibo, mweni, mouse, cunning, roamed, mighty, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_57c318a661a34423a310aae72de4124a.png",
+          "clip_score": 0.2718324363231659,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5043469071388245
+            ],
+            "recall": [
+              0.31745681166648865
+            ],
+            "f1": [
+              0.3896510899066925
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08602150537634409,
+              "f1": 0.15841584158415845
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.053763440860215055,
+              "f1": 0.09900990099009901
+            }
+          },
+          "brisque_score": 3.64617919921875
+        },
+        "simple": {
+          "prompt": "Kibo, Mweni, smoldering, surprising, friendship, throughout, gratitude, creatures, whispered, newfound, watercolor fantasy, scene 5, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_5ce0ea9ee563459bbf455673f343e0bf.png",
+          "clip_score": 0.23159179091453552,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5238708853721619
+            ],
+            "recall": [
+              0.30824846029281616
+            ],
+            "f1": [
+              0.38812315464019775
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08602150537634409,
+              "f1": 0.15841584158415845
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.053763440860215055,
+              "f1": 0.09900990099009901
+            }
+          },
+          "brisque_score": 7.28582763671875
+        }
+      }
+    }
+  ]
+}

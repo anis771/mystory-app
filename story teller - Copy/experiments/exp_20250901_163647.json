@@ -1,0 +1,581 @@
+{
+  "id": "exp_20250901_163647",
+  "title": "The Tale of The Giving Tree",
+  "context": {
+    "characters": {
+      "Sophie": "12-year-old girl with wild hair and shining eyes",
+      "Ringtail Rascal": "cunning leader of a group of mischievous raccoons"
+    },
+    "settings": [
+      "Willowdale",
+      "Luna's roots"
+    ],
+    "art_style": "Watercolor Fantasy",
+    "mood": "Whimsical",
+    "theme": "Coming of Age",
+    "setting_type": "Contemporary",
+    "color_palette": "Warm Earth Tones",
+    "key_elements": [
+      "Luna (the tree)",
+      "Acorns"
+    ]
+  },
+  "consistency": 0.38203463203463195,
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "In the heart of Willowdale, a quaint town nestled between rolling hills and sparkling lakes, stood an extraordinary tree named Luna. Her branches stretched towards the sky like a gentle giant's arms, embracing the whimsical world within her grasp. The sun danced across her leaves, casting dappled shadows that seemed to whisper secrets to the townspeople below. It was here, beneath Luna's watchful gaze, that 12-year-old Sophie grew up, surrounded by the sweet scent of blooming flowers and the soft chirping of birds.\n\nSophie was a curious soul with hair as wild as the wind and eyes that shone like stars on a clear night. She spent her days exploring the nooks and crannies of Willowdale, collecting treasures she'd later trade for stories at Luna's roots. The tree became Sophie's confidante, listening to her whispers, sharing her joys, and mourning her sorrows. As the seasons passed, Luna's bark grew weathered, but her essence remained strong, nurturing the young girl as she navigated the mysteries of growing up.",
+      "results": {
+        "yake": {
+          "prompt": "Sophie, Ringtail Rascal, Luna, Willowdale, Sophie, lakes, stood, heart, quaint, town, Watercolor Fantasy, scene 1, Whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_2ccb4732fe8144c5b8d097ec4172c181.png",
+          "clip_score": 0.2824438214302063,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.544335126876831
+            ],
+            "recall": [
+              0.28230735659599304
+            ],
+            "f1": [
+              0.37179264426231384
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.045714285714285714,
+              "f1": 0.08743169398907102
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.011494252873563218,
+              "f1": 0.022099447513812157
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.017142857142857144,
+              "f1": 0.03278688524590165
+            }
+          },
+          "brisque_score": 4.62518310546875
+        },
+        "keybert": {
+          "prompt": "Sophie, Ringtail Rascal, luna, sophie, willowdale, flowers, blooming, leaves, tree, sun, Watercolor Fantasy, scene 1, Whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_20eb3e6e83444b93852030f3cc708ff6.png",
+          "clip_score": 0.26715317368507385,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4550360441207886
+            ],
+            "recall": [
+              0.2814936339855194
+            ],
+            "f1": [
+              0.34781965613365173
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.045714285714285714,
+              "f1": 0.08743169398907102
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.022857142857142857,
+              "f1": 0.04371584699453551
+            }
+          },
+          "brisque_score": 7.83026123046875
+        },
+        "simple": {
+          "prompt": "Sophie, Ringtail Rascal, extraordinary, townspeople, willowdale, surrounded, collecting, confidante, sparkling, stretched, Watercolor Fantasy, scene 1, Whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_30e7aa62766846c2a0144a590d5f5df8.png",
+          "clip_score": 0.2766982913017273,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5017130970954895
+            ],
+            "recall": [
+              0.31748607754707336
+            ],
+            "f1": [
+              0.38888445496559143
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.045714285714285714,
+              "f1": 0.08743169398907102
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.02857142857142857,
+              "f1": 0.0546448087431694
+            }
+          },
+          "brisque_score": 8.52313232421875
+        }
+      }
+    },
+    {
+      "id": 2,
+      "text": "One day, a group of mischievous raccoons, led by the cunning Ringtail Rascal, began to frequent Luna's branches. They'd swing from her limbs, their tiny hands grasping for acorns and laughter. Sophie watched with a mixture of fascination and trepidation as the bandits claimed Luna as their own playground. Though she worried about the tree's well-being, Luna seemed to delight in the raccoons' antics, her leaves rustling with mirth. As the sun dipped below the horizon, Ringtail Rascal would lead his troupe in a chorus of chirps and trills, harmonizing with Luna's gentle hum.",
+      "results": {
+        "yake": {
+          "prompt": "Sophie, Ringtail Rascal, Luna, Ringtail, Rascal, day, raccoons, led, began, branches, Watercolor Fantasy, scene 2, Whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_ab3758141935409791f6fa719bd6a775.png",
+          "clip_score": 0.28313174843788147,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4690089821815491
+            ],
+            "recall": [
+              0.32153987884521484
+            ],
+            "f1": [
+              0.38151997327804565
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08080808080808081,
+              "f1": 0.14953271028037382
+            },
+            "rouge2": {
+              "precision": 0.2857142857142857,
+              "recall": 0.02040816326530612,
+              "f1": 0.038095238095238085
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.050505050505050504,
+              "f1": 0.09345794392523366
+            }
+          },
+          "brisque_score": 6.20379638671875
+        },
+        "keybert": {
+          "prompt": "Sophie, Ringtail Rascal, luna, raccoons, leaves, rustling, rascal, tree, acorns, ringtail, Watercolor Fantasy, scene 2, Whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_61854afceab54cb68f4f062108a3a3dc.png",
+          "clip_score": 0.31557294726371765,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.526757001876831
+            ],
+            "recall": [
+              0.3298301696777344
+            ],
+            "f1": [
+              0.4056571424007416
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.08080808080808081,
+              "f1": 0.14953271028037382
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.01020408163265306,
+              "f1": 0.019047619047619042
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.050505050505050504,
+              "f1": 0.09345794392523366
+            }
+          },
+          "brisque_score": 4.45526123046875
+        },
+        "simple": {
+          "prompt": "Sophie, Ringtail Rascal, mischievous, fascination, trepidation, harmonizing, playground, well-being, raccoons, ringtail, Watercolor Fantasy, scene 2, Whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_2ada0d9dc7c246da86095a937ece8b3b.png",
+          "clip_score": 0.3031429052352905,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.531561017036438
+            ],
+            "recall": [
+              0.34743282198905945
+            ],
+            "f1": [
+              0.42021167278289795
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.09090909090909091,
+              "f1": 0.16666666666666669
+            },
+            "rouge2": {
+              "precision": 0.125,
+              "recall": 0.01020408163265306,
+              "f1": 0.018867924528301883
+            },
+            "rougeL": {
+              "precision": 0.8888888888888888,
+              "recall": 0.08080808080808081,
+              "f1": 0.14814814814814817
+            }
+          },
+          "brisque_score": 9.37127685546875
+        }
+      }
+    },
+    {
+      "id": 3,
+      "text": "As Sophie entered her teenage years, she began to spend more time away from Willowdale, exploring the world beyond her small town. She'd return home, though, bearing tales of far-off lands and exotic creatures. Luna would listen intently, her branches swaying in the breeze as Sophie recounted her adventures. The tree's response was always the same: a soft rustling of leaves, as if she were whispering words of wisdom to the wind. One day, Sophie announced her plans to leave Willowdale for good, seeking fame and fortune in the city beyond. Luna's branches seemed to sag, as if the very thought pained her.",
+      "results": {
+        "yake": {
+          "prompt": "Sophie, Ringtail Rascal, Sophie, Willowdale, years, exploring, town, entered, teenage, began, Watercolor Fantasy, scene 3, Whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_80b50c5fe3404991a4f9515748e765ea.png",
+          "clip_score": 0.2533034384250641,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.530078113079071
+            ],
+            "recall": [
+              0.2878783643245697
+            ],
+            "f1": [
+              0.37312015891075134
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07476635514018691,
+              "f1": 0.1391304347826087
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.037383177570093455,
+              "f1": 0.06956521739130435
+            }
+          },
+          "brisque_score": 8.00701904296875
+        },
+        "keybert": {
+          "prompt": "Sophie, Ringtail Rascal, sophie, luna, willowdale, tree, leaves, rustling, branches, swaying, Watercolor Fantasy, scene 3, Whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_530e5b252fb54235abf040739e218e99.png",
+          "clip_score": 0.2916106581687927,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5053555369377136
+            ],
+            "recall": [
+              0.29518061876296997
+            ],
+            "f1": [
+              0.37267813086509705
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07476635514018691,
+              "f1": 0.1391304347826087
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.009433962264150943,
+              "f1": 0.017699115044247787
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.04672897196261682,
+              "f1": 0.08695652173913043
+            }
+          },
+          "brisque_score": 11.81756591796875
+        },
+        "simple": {
+          "prompt": "Sophie, Ringtail Rascal, willowdale, adventures, whispering, exploring, creatures, recounted, announced, intently, Watercolor Fantasy, scene 3, Whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_3_0723327438ea4796b5358b9a7bccdfb9.png",
+          "clip_score": 0.25577616691589355,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.47417083382606506
+            ],
+            "recall": [
+              0.30153369903564453
+            ],
+            "f1": [
+              0.3686416447162628
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07476635514018691,
+              "f1": 0.1391304347826087
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.04672897196261682,
+              "f1": 0.08695652173913043
+            }
+          },
+          "brisque_score": 7.71063232421875
+        }
+      }
+    },
+    {
+      "id": 4,
+      "text": "Sophie's departure was met with a mix of sadness and excitement from the townspeople. Luna, however, stood steadfast, her roots digging deeper into the earth as she absorbed the emotions swirling around her. The tree's leaves shimmered like tears, but they also seemed to sparkle with an inner light, illuminating the path Sophie would soon follow. As the young woman bid farewell to Willowdale, Luna reached out with a branch, gently guiding her towards the unknown. Sophie looked back, feeling the tree's words echoing in her heart: \"Grow, little one. Spread your roots and touch the sky.\" With those words, Sophie vanished into the horizon, leaving Luna to her quiet vigil.",
+      "results": {
+        "yake": {
+          "prompt": "Sophie, Ringtail Rascal, Sophie, Luna, townspeople, departure, met, mix, sadness, excitement, Watercolor Fantasy, scene 4, Whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_4bea1290f20141479a59e58e111b3387.png",
+          "clip_score": 0.25893929600715637,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6251660585403442
+            ],
+            "recall": [
+              0.34345704317092896
+            ],
+            "f1": [
+              0.44334620237350464
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07017543859649122,
+              "f1": 0.13114754098360656
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.05263157894736842,
+              "f1": 0.09836065573770492
+            }
+          },
+          "brisque_score": 9.57684326171875
+        },
+        "keybert": {
+          "prompt": "Sophie, Ringtail Rascal, sophie, luna, leaves, tree, willowdale, departure, leaving, roots, Watercolor Fantasy, scene 4, Whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_f508a77a700a4a15b5df594b3013da04.png",
+          "clip_score": 0.26181966066360474,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.46670329570770264
+            ],
+            "recall": [
+              0.30730533599853516
+            ],
+            "f1": [
+              0.37059125304222107
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07017543859649122,
+              "f1": 0.13114754098360656
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.043859649122807015,
+              "f1": 0.08196721311475409
+            }
+          },
+          "brisque_score": 9.42742919921875
+        },
+        "simple": {
+          "prompt": "Sophie, Ringtail Rascal, illuminating, townspeople, excitement, willowdale, departure, steadfast, shimmered, absorbed, Watercolor Fantasy, scene 4, Whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_4_bb67fef6b84742acbfb93486656bc1ee.png",
+          "clip_score": 0.258788526058197,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5109225511550903
+            ],
+            "recall": [
+              0.33536458015441895
+            ],
+            "f1": [
+              0.40493425726890564
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.07017543859649122,
+              "f1": 0.13114754098360656
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.02631578947368421,
+              "f1": 0.04918032786885246
+            }
+          },
+          "brisque_score": 10.78240966796875
+        }
+      }
+    },
+    {
+      "id": 5,
+      "text": "Years passed, and Willowdale grew quieter, its residents whispering stories of Sophie's exploits in far-off lands. Yet, beneath Luna's branches, life continued to flourish. The raccoons still played, their chirps mingling with the tree's gentle hum. As the seasons came and went, Luna remained steadfast, her essence infusing the air with a sense of wonder. And when the wind carried Sophie's distant laughter back to Willowdale, Luna's branches would rustle in joy, knowing that her little one had grown into a remarkable individual, spreading roots and touching the sky from afar. The tree's wisdom echoed through the town: growth is not about staying put, but about embracing the world, leaving your mark, and coming full circle back to where you began.",
+      "results": {
+        "yake": {
+          "prompt": "Sophie, Ringtail Rascal, Luna, Willowdale, Sophie, Years, passed, quieter, lands, grew, Watercolor Fantasy, scene 5, Whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_b4e4f304b45344aaa2771a6718483439.png",
+          "clip_score": 0.24759632349014282,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5313764810562134
+            ],
+            "recall": [
+              0.2954166829586029
+            ],
+            "f1": [
+              0.3797260820865631
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0625,
+              "f1": 0.11764705882352941
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.007874015748031496,
+              "f1": 0.01492537313432836
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.03125,
+              "f1": 0.058823529411764705
+            }
+          },
+          "brisque_score": 4.21942138671875
+        },
+        "keybert": {
+          "prompt": "Sophie, Ringtail Rascal, luna, tree, willowdale, grew, sophie, raccoons, growth, flourish, Watercolor Fantasy, scene 5, Whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_1f8ad8a5c1c042d39b243f231a6a93f5.png",
+          "clip_score": 0.26533541083335876,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4338156282901764
+            ],
+            "recall": [
+              0.2736276388168335
+            ],
+            "f1": [
+              0.3355857729911804
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0625,
+              "f1": 0.11764705882352941
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.007874015748031496,
+              "f1": 0.01492537313432836
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.0390625,
+              "f1": 0.07352941176470588
+            }
+          },
+          "brisque_score": 10.05096435546875
+        },
+        "simple": {
+          "prompt": "Sophie, Ringtail Rascal, willowdale, whispering, remarkable, individual, residents, continued, steadfast, spreading, Watercolor Fantasy, scene 5, Whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_5_88a2064a17e74b36b8958057e342b0ef.png",
+          "clip_score": 0.2500472664833069,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5265483856201172
+            ],
+            "recall": [
+              0.30896204710006714
+            ],
+            "f1": [
+              0.3894229531288147
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0625,
+              "f1": 0.11764705882352941
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.007874015748031496,
+              "f1": 0.01492537313432836
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.0390625,
+              "f1": 0.07352941176470588
+            }
+          },
+          "brisque_score": 12.88787841796875
+        }
+      }
+    }
+  ]
+}

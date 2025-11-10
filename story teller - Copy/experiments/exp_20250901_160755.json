@@ -1,0 +1,258 @@
+{
+  "id": "exp_20250901_160755",
+  "title": "The Tale of The Secret Garden",
+  "context": {
+    "characters": {
+      "Lily Green": "10-year-old girl with an inexplicable connection to Whispering Woods"
+    },
+    "settings": [
+      "Whispering Woods",
+      "the treetops",
+      "a nearby meadow",
+      "a hidden clearing",
+      "under the willow tree",
+      "a lush, overgrown garden"
+    ],
+    "art_style": "watercolor fantasy",
+    "mood": "whimsical",
+    "theme": "fantasy",
+    "setting_type": "magical",
+    "color_palette": "warm earth tones, soft greens",
+    "key_elements": [
+      "ancient trees",
+      "wildflowers",
+      "ripe berries",
+      "hummingbirds",
+      "majestic willow tree",
+      "small door",
+      "narrow stairway",
+      "statues",
+      "vines"
+    ]
+  },
+  "consistency": 0.8,
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "As the sun dipped into the horizon, casting a warm orange glow over the mystical realm of Whispering Woods, a sense of wonder stirred within the chest of 10-year-old Lily Green. She had always felt an inexplicable connection to this enchanted land, where ancient trees whispered secrets to each other and wildflowers bloomed in every color of the rainbow.",
+      "results": {
+        "yake": {
+          "prompt": "Lily Green, Woods, Lily, Green, Whispering, horizon, casting, sun, dipped, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_77efd23d77544b499fae23aa6b855f5a.png",
+          "clip_score": 0.2970696687698364,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.523590624332428
+            ],
+            "recall": [
+              0.37136268615722656
+            ],
+            "f1": [
+              0.43452996015548706
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.13114754098360656,
+              "f1": 0.23188405797101452
+            },
+            "rouge2": {
+              "precision": 0.42857142857142855,
+              "recall": 0.05,
+              "f1": 0.08955223880597016
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.06557377049180328,
+              "f1": 0.11594202898550726
+            }
+          },
+          "brisque_score": 16.11688232421875
+        },
+        "keybert": {
+          "prompt": "Lily Green, lily, bloomed, enchanted, wildflowers, trees, mystical, green, rainbow, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_5633fb27d3934c2dab194c09876ac967.png",
+          "clip_score": 0.3004964292049408,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5453507304191589
+            ],
+            "recall": [
+              0.373932421207428
+            ],
+            "f1": [
+              0.4436594247817993
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.13114754098360656,
+              "f1": 0.23188405797101452
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.5,
+              "recall": 0.06557377049180328,
+              "f1": 0.11594202898550726
+            }
+          },
+          "brisque_score": 2.26190185546875
+        },
+        "simple": {
+          "prompt": "Lily Green, inexplicable, wildflowers, whispering, connection, enchanted, whispered, mystical, year-old, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_cfc07cd6af9945fab5ca6c5fa48a1ecd.png",
+          "clip_score": 0.3113386034965515,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5970212817192078
+            ],
+            "recall": [
+              0.42785558104515076
+            ],
+            "f1": [
+              0.4984772503376007
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.14754098360655737,
+              "f1": 0.2571428571428572
+            },
+            "rouge2": {
+              "precision": 0.125,
+              "recall": 0.016666666666666666,
+              "f1": 0.029411764705882353
+            },
+            "rougeL": {
+              "precision": 0.4444444444444444,
+              "recall": 0.06557377049180328,
+              "f1": 0.1142857142857143
+            }
+          },
+          "brisque_score": 15.14129638671875
+        }
+      }
+    },
+    {
+      "id": 2,
+      "text": "Lily's eyes sparkled with excitement as she stepped out of her family's quaint cottage, nestled among the treetops. The air was filled with the sweet scent of ripe berries and the gentle hum of hummingbirds flitting about a nearby meadow. She followed the winding path, her golden locks bouncing with each step, until she reached the edge of a hidden clearing. A majestic willow tree, its branches twisted into fantastical shapes, stood tall at the center, casting a spell of tranquility over the area. Lily felt an inexplicable pull towards this magical spot, as if the very essence of Whispering Woods was calling her name.\n\nAs she approached the willow, a faint light began to emanate from within its bark. The soft glow grew stronger, illuminating a small door hidden among the branches. The door creaked open, revealing a narrow stairway that spiraled down into darkness. Without hesitation, Lily's curiosity got the better of her, and she descended the stairs, her heart racing with anticipation. At the bottom, she found herself in a lush, overgrown garden, teeming with life. Vines wrapped around ancient statues, and flowers of every hue burst forth from the earth. A soft breeze rustled through the leaves, whispering secrets only the trees could understand.\n\nAs Lily wandered deeper into the garden, she stumbled upon a hidden pond, its surface adorned with delicate water lilies and a family of ducks swimming lazily about. The air was filled with the sweet songs of birds, and the scent of blooming lavender wafted through the air. A faint humming noise caught her attention, growing louder as she followed the sound to a small, intricately carved wooden door hidden behind a tangle of vines. The door swung open, revealing a cozy nook filled with dusty tomes and peculiar trinkets.\n\nWith each new discovery, Lily's sense of wonder grew, and she felt an inexplicable connection to this enchanted land. As the moon rose high in the sky, casting a silver glow over Whispering Woods, Lily knew that she had stumbled upon something truly special  a secret garden hidden deep within the heart of magic. And as she explored its secrets, she realized that this mystical realm held more than just wonder; it held the key to unlocking her own potential and revealing the magic that lay within herself.",
+      "results": {
+        "yake": {
+          "prompt": "Lily Green, Lily, hidden, door, Whispering, air, filled, cottage, nestled, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_ba7295fce67d447a92a20269b9a2790a.png",
+          "clip_score": 0.3231821656227112,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.522355318069458
+            ],
+            "recall": [
+              0.29788127541542053
+            ],
+            "f1": [
+              0.37940239906311035
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.020512820512820513,
+              "f1": 0.04020100502512563
+            },
+            "rouge2": {
+              "precision": 0.14285714285714285,
+              "recall": 0.002570694087403599,
+              "f1": 0.00505050505050505
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.015384615384615385,
+              "f1": 0.030150753768844223
+            }
+          },
+          "brisque_score": 14.33221435546875
+        },
+        "keybert": {
+          "prompt": "Lily Green, lily, flowers, willow, lilies, blooming, sparkled, mystical, leaves, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_eb1c542ee538447d92024f5eb6c97d70.png",
+          "clip_score": 0.3226411044597626,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5454732179641724
+            ],
+            "recall": [
+              0.29131603240966797
+            ],
+            "f1": [
+              0.37979716062545776
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.020512820512820513,
+              "f1": 0.04020100502512563
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.01282051282051282,
+              "f1": 0.02512562814070352
+            }
+          },
+          "brisque_score": 10.57635498046875
+        },
+        "simple": {
+          "prompt": "Lily Green, hummingbirds, inexplicable, illuminating, anticipation, fantastical, tranquility, intricately, excitement, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_f0847cd06dba4a91a0eb46c83229ca6c.png",
+          "clip_score": 0.3173105716705322,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4751432240009308
+            ],
+            "recall": [
+              0.2624818980693817
+            ],
+            "f1": [
+              0.3381568491458893
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.020512820512820513,
+              "f1": 0.04020100502512563
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.625,
+              "recall": 0.01282051282051282,
+              "f1": 0.02512562814070352
+            }
+          },
+          "brisque_score": -2.84649658203125
+        }
+      }
+    }
+  ]
+}

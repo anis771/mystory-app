@@ -1,0 +1,251 @@
+{
+  "id": "exp_20250901_162623",
+  "title": "The Adventures of The Ant And",
+  "context": {
+    "characters": {
+      "Aria": "a diligent ant worker",
+      "Kael": "a carefree grasshopper"
+    },
+    "settings": [
+      "sun-drenched meadow",
+      "underground colony",
+      "burrow"
+    ],
+    "art_style": "watercolor fantasy",
+    "mood": "whimsical",
+    "theme": "moral",
+    "setting_type": "natural",
+    "color_palette": "warm earth tones, golden light",
+    "key_elements": [
+      "wildflowers",
+      "fresh grass",
+      "crumbs and seeds",
+      "emerald wings"
+    ]
+  },
+  "consistency": 0.8333333333333334,
+  "paragraphs": [
+    {
+      "id": 1,
+      "text": "In a sun-drenched meadow, where wildflowers swayed gently in the breeze and the scent of fresh grass filled the air, two insects lived vastly different lives. Aria, the ant, was a diligent worker, always on the move, gathering crumbs and seeds for her underground colony. Her exoskeleton shone like polished ebony, reflecting the warmth of the sun as she scurried from blade to blade.\n\nAria's days blended together in a haze of industry, as she worked tirelessly alongside her colony mates. They toiled beneath the earth, storing their harvests away for the leaner months ahead. Meanwhile, above ground, Kael, the grasshopper, revelled in the freedom of his carefree existence. His emerald wings sparkled like jewels in the sunlight, as he danced and leaped with abandon, singing a lively tune to match his joyful mood.",
+      "results": {
+        "yake": {
+          "prompt": "Aria, Kael, meadow, air, lives, sun-drenched, wildflowers, swayed, gently, breeze, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_f0fe184e84814279bb1d9a286a682051.png",
+          "clip_score": 0.29209476709365845,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.6390117406845093
+            ],
+            "recall": [
+              0.36410093307495117
+            ],
+            "f1": [
+              0.4638856053352356
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0661764705882353,
+              "f1": 0.12413793103448276
+            },
+            "rouge2": {
+              "precision": 0.375,
+              "recall": 0.022222222222222223,
+              "f1": 0.04195804195804196
+            },
+            "rougeL": {
+              "precision": 0.6666666666666666,
+              "recall": 0.04411764705882353,
+              "f1": 0.08275862068965519
+            }
+          },
+          "brisque_score": 2.12860107421875
+        },
+        "keybert": {
+          "prompt": "Aria, Kael, grasshopper, ant, insects, wildflowers, aria, grass, sunlight, harvests, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_3693932199f742da96d5086a8bca1872.png",
+          "clip_score": 0.30509522557258606,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.503410816192627
+            ],
+            "recall": [
+              0.29463517665863037
+            ],
+            "f1": [
+              0.3717142641544342
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.058823529411764705,
+              "f1": 0.1111111111111111
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.375,
+              "recall": 0.022058823529411766,
+              "f1": 0.04166666666666667
+            }
+          },
+          "brisque_score": 5.90740966796875
+        },
+        "simple": {
+          "prompt": "Aria, Kael, sun-drenched, wildflowers, underground, exoskeleton, grasshopper, reflecting, tirelessly, different, watercolor fantasy, scene 1, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_1_4c37a6eb7a4141b58f7d9d781ba6e701.png",
+          "clip_score": 0.2785290479660034,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5646331310272217
+            ],
+            "recall": [
+              0.3348831534385681
+            ],
+            "f1": [
+              0.42041733860969543
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0661764705882353,
+              "f1": 0.12413793103448276
+            },
+            "rouge2": {
+              "precision": 0.125,
+              "recall": 0.007407407407407408,
+              "f1": 0.013986013986013986
+            },
+            "rougeL": {
+              "precision": 0.7777777777777778,
+              "recall": 0.051470588235294115,
+              "f1": 0.09655172413793102
+            }
+          },
+          "brisque_score": 1.00701904296875
+        }
+      }
+    },
+    {
+      "id": 2,
+      "text": "As autumn's chill began to creep into the air, Aria and Kael found themselves at cross-purposes. The ant was consumed by preparations for winter, busily stockpiling supplies in her underground pantry. Kael, however, remained oblivious to the approaching season, too caught up in his own revelry to worry about the future. His song grew louder, drawing Aria's attention as she emerged from her burrow to survey the landscape.\n\nThe ant's keen eyes took in every detail: the dry grasses, the wilting wildflowers, and Kael's increasingly frantic antics. Her antennae twitched with concern, but she knew she couldn't force her neighbour to prepare for winter. She could only hope that he would eventually come to his senses and join her in their shared struggle for survival. Meanwhile, Kael's song grew softer, his movements more laboured, as the cold seeped into his bones.\n\nAs winter's grip tightened its hold on the meadow, Aria's underground colony thrived, thanks to her foresight and hard work. Kael, however, found himself at the mercy of the elements, forced to rely on the charity of his once-industrious neighbour. As he gazed up at Aria's burrow, now transformed into a warm and cozy haven, he realized too late that his carefree lifestyle had left him unprepared for the harsh realities of winter. The grasshopper's song died away, replaced by the hum of regret as he begged Aria for aid.",
+      "results": {
+        "yake": {
+          "prompt": "Aria, Kael, Kael, Aria, winter, song, air, cross-purposes, autumn, chill, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_fab538f363a3491cb8074b027fa4b0c3.png",
+          "clip_score": 0.2894032597541809,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4687862992286682
+            ],
+            "recall": [
+              0.2640056610107422
+            ],
+            "f1": [
+              0.33778274059295654
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.037037037037037035,
+              "f1": 0.07142857142857142
+            },
+            "rouge2": {
+              "precision": 0.125,
+              "recall": 0.004132231404958678,
+              "f1": 0.008000000000000002
+            },
+            "rougeL": {
+              "precision": 0.4444444444444444,
+              "recall": 0.01646090534979424,
+              "f1": 0.03174603174603175
+            }
+          },
+          "brisque_score": 2.36541748046875
+        },
+        "keybert": {
+          "prompt": "Aria, Kael, autumn, kael, winter, ant, aria, grasses, burrow, wildflowers, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_5525d94c1f194cd3a86c18afd0f0887c.png",
+          "clip_score": 0.29275763034820557,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.4322717785835266
+            ],
+            "recall": [
+              0.2416990101337433
+            ],
+            "f1": [
+              0.3100420832633972
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.03292181069958848,
+              "f1": 0.06374501992031872
+            },
+            "rouge2": {
+              "precision": 0.0,
+              "recall": 0.0,
+              "f1": 0.0
+            },
+            "rougeL": {
+              "precision": 0.75,
+              "recall": 0.024691358024691357,
+              "f1": 0.04780876494023904
+            }
+          },
+          "brisque_score": 5.58758544921875
+        },
+        "simple": {
+          "prompt": "Aria, Kael, once-industrious, cross-purposes, preparations, increasingly, stockpiling, underground, approaching, wildflowers, watercolor fantasy, scene 2, whimsical atmosphere",
+          "image_url": "http://localhost:5000/generated_images/paragraph_2_50b97a855a3740489e772383965a2e3a.png",
+          "clip_score": 0.2568710446357727,
+          "bias": false,
+          "bert_score": {
+            "precision": [
+              0.5727680325508118
+            ],
+            "recall": [
+              0.30042994022369385
+            ],
+            "f1": [
+              0.39412981271743774
+            ]
+          },
+          "rouge_score": {
+            "rouge1": {
+              "precision": 1.0,
+              "recall": 0.0411522633744856,
+              "f1": 0.07905138339920949
+            },
+            "rouge2": {
+              "precision": 0.2222222222222222,
+              "recall": 0.008264462809917356,
+              "f1": 0.01593625498007968
+            },
+            "rougeL": {
+              "precision": 0.7,
+              "recall": 0.02880658436213992,
+              "f1": 0.05533596837944665
+            }
+          },
+          "brisque_score": 4.23114013671875
+        }
+      }
+    }
+  ]
+}

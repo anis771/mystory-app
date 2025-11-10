@@ -1,0 +1,25 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# System deps (add CV libs if needed)
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential curl && rm -rf /var/lib/apt/lists/*
+
+# Hugging Face caches (optional but recommended for model downloads)
+ENV HF_HOME=/app/.cache/huggingface
+ENV TRANSFORMERS_CACHE=/app/.cache/huggingface/transformers
+
+# Install Python deps
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy source
+COPY . .
+
+# Zeabur will inject PORT
+ENV PORT=8000
+ENV PYTHONUNBUFFERED=1
+
+# Flask (change to uvicorn worker if FastAPI)
+CMD ["sh", "-c", "gunicorn app:app --workers 2 --threads 4 --timeout 180 --bind 0.0.0.0:${PORT}"]
